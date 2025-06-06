@@ -1,0 +1,6 @@
+std_id,label,title,type
+10,CIS_v8.0,CIS Controls v8.0,ref
+20,CSF_v1.1,CSF v1.1,focal
+30,CSF_v2.0,CSF v2.0,focal
+40,HIPAA_Sec-v2025,HIPAA Security Rule,hipaa
+50,SCF_v2024,SCF v2024.4,ref
