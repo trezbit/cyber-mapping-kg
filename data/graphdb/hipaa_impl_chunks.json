@@ -1,0 +1,1259 @@
+{
+    "40002": {
+        "chunkContent": "## Administrative Safeguards\n\n### **Security Management Process (\u00a7 164.308(a)(1))**\n\n**HIPAA Standard:** Implement policies and procedures to prevent, detect, contain, and correct security violations.",
+        "chunkLabel": "164.308(a)(1)",
+        "chunkNum": 1,
+        "chunkId": 40002,
+        "chunkOrig": 1,
+        "implNodes": [
+            4016
+        ]
+    },
+    "40003": {
+        "chunkContent": "## Administrative Safeguards\n\n### Assigned Security Responsibility (\u00a7 164.308(a)(2))\n\n**HIPAA Standard:** Identify the security official who is responsible for the development and implementation of the policies and procedures required by this subpart for the covered entity or business associate.\n\n**Table 9. Key activities, descriptions, and sample questions for the Assigned Security Responsibility standard**",
+        "chunkLabel": "164.308(a)(2)",
+        "chunkNum": 1,
+        "chunkId": 40003,
+        "chunkOrig": 1,
+        "implNodes": [
+            4022
+        ]
+    },
+    "40004": {
+        "chunkContent": "## Administrative Safeguards\n\n### Workforce Security (\u00a7 164.308(a)(3))\n\n**HIPAA Standard:** Implement policies and procedures to ensure that all members of its workforce have appropriate access to electronic protected health information, as provided under paragraph (a)(4) of this section, and to prevent those workforce members who do not have access under paragraph (a)(4) of this section from obtaining access to electronic protected health information.\n\n**Table 10. Key activities, descriptions, and sample questions for the Workforce Security standard**",
+        "chunkLabel": "164.308(a)(3)",
+        "chunkNum": 1,
+        "chunkId": 40004,
+        "chunkOrig": 1,
+        "implNodes": [
+            4023,
+            4024,
+            4025,
+            4026
+        ]
+    },
+    "40005": {
+        "chunkContent": "## Administrative Safeguards\n\n### Information Access Management (\u00a7 164.308(a)(4))\n\n**HIPAA Standard:** Implement policies and procedures for authorizing access to electronic protected health information that are consistent with the applicable requirements of subpart E of this part.\n\n**Table 11. Key activities, descriptions, and sample questions for the Information Access Management standard**",
+        "chunkLabel": "164.308(a)(4)",
+        "chunkNum": 1,
+        "chunkId": 40005,
+        "chunkOrig": 1,
+        "implNodes": [
+            4027,
+            4028,
+            4029,
+            4030
+        ]
+    },
+    "40006": {
+        "chunkContent": "## Administrative Safeguards\n\n### Security Awareness and Training (\u00a7 164.308(a)(5))\n\n**HIPAA Standard:** Implement a security awareness and training program for all members of its workforce (including management).\n\n**Table 12. Key activities, descriptions, and sample questions for the Security Awareness and Training standard**",
+        "chunkLabel": "164.308(a)(5)",
+        "chunkNum": 1,
+        "chunkId": 40006,
+        "chunkOrig": 1,
+        "implNodes": [
+            4031,
+            4032,
+            4033,
+            4034,
+            4035
+        ]
+    },
+    "40007": {
+        "chunkContent": "## Administrative Safeguards\n\n### Security Incident Procedures (\u00a7 164.308(a)(6))\n\n**HIPAA Standard:** *Implement policies and procedures to address security incidents*.\n\n**Table 13. Key activities, descriptions, and sample questions for the Security Incident Procedures standard**",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 1,
+        "chunkId": 40007,
+        "chunkOrig": 1,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40008": {
+        "chunkContent": "## Administrative Safeguards\n\n### Contingency Plan (\u00a7 164.308(a)(7))\n\n**HIPAA Standard:** Establish (and implement as needed) policies and procedures for responding to an emergency or other occurrence (for example, fire, vandalism, system failure, and natural disaster) that damages systems that contain electronic protected health information.\n\n**Table 14. Key activities, descriptions, and sample questions for the Contingency Plan standard**",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 1,
+        "chunkId": 40008,
+        "chunkOrig": 1,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40009": {
+        "chunkContent": "## Administrative Safeguards\n\n### Evaluation (\u00a7 164.308(a)(8))\n\n**HIPAA Standard:** Perform a periodic technical and nontechnical evaluation, based initially upon the standards implemented under this rule and subsequently, in response to environmental or operational changes affecting the security of electronic protected health information, that establishes the extent to which a covered entity\u2019s or business associate\u2019s security policies and procedures meet the requirements of this subpart.\n\n**Table 15. Key activities, descriptions, and sample questions for the Evaluation standard**",
+        "chunkLabel": "164.308(a)(8)",
+        "chunkNum": 1,
+        "chunkId": 40009,
+        "chunkOrig": 1,
+        "implNodes": [
+            4028,
+            4044
+        ]
+    },
+    "40010": {
+        "chunkContent": "## Administrative Safeguards\n\n### Business Associate Contracts and Other Arrangements (\u00a7 164.308(b)(1))\n\n**HIPAA Standard:** A covered entity may permit a business associate to create, receive, maintain, or transmit electronic protected health information on the covered entity\u2019s behalf only if the covered entity obtains satisfactory assurances, in accordance with \u00a7 164.314(a), that the business associate will appropriately safeguard the information. A covered entity is not required to obtain such satisfactory assurances from a business associate that is a subcontractor.\n\nCovered entities need to be cognizant of differentiating between best practices versus what the Security Rule requires. Vendor management and supply chain risks are important topics due to the potential they have to introduce new threats and risks to organizations. However, to the extent that such vendors and service providers are business associates, HIPAA treats them the same as covered entities with respect to Security Rule compliance. Covered entities and business associates are required to obtain written satisfactory assurances that PHI will be protected. Covered entities and business associates are permitted to require more of their business associates and even include more stringent cybersecurity requirements in a business associate agreement (BAA). These requirements would need to be agreed upon by both the covered entity and the business associate.\n\n**Table 16. Key activities, descriptions, and sample questions for the Business Associate Contracts and Other Arrangements standard**",
+        "chunkLabel": "164.308(b)(1)",
+        "chunkNum": 1,
+        "chunkId": 40010,
+        "chunkOrig": 1,
+        "implNodes": [
+            4029,
+            4045
+        ]
+    },
+    "40011": {
+        "chunkContent": "## Physical Safeguards\n\n### **Facility Access Controls (\u00a7 164.310(a))**\n\n**HIPAA Standard:** Implement policies and procedures to limit physical access to its electronic information systems and the facility or facilities in which they are housed, while ensuring that properly authorized access is allowed.\n\n**Table 17. Key activities, descriptions, and sample questions for the Facility Access Controls standard**",
+        "chunkLabel": "164.310(a)",
+        "chunkNum": 1,
+        "chunkId": 40011,
+        "chunkOrig": 1,
+        "implNodes": [
+            4030,
+            4047
+        ]
+    },
+    "40012": {
+        "chunkContent": "## Physical Safeguards\n\n### Workstation Use (\u00a7 164.310(b))\n\n**HIPAA Standard:** Implement policies and procedures that specify the proper functions to be performed, the manner in which those functions are to be performed, and the physical attributes of the surroundings of a specific workstation or class of workstation that can access electronic protected health information.\n\n**Table 18. Key activities, descriptions, and sample questions for the Workstation Use standard**",
+        "chunkLabel": "164.310(b)",
+        "chunkNum": 1,
+        "chunkId": 40012,
+        "chunkOrig": 1,
+        "implNodes": [
+            4053
+        ]
+    },
+    "40013": {
+        "chunkContent": "## Physical Safeguards\n\n### Workstation Security (\u00a7 164.310(c))\n\n**HIPAA Standard:** Implement physical safeguards for all workstations that access electronic protected health information, to restrict access to authorized users.\n\n**Table 19. Key activities, descriptions, and sample questions for the Workstation Security standard**",
+        "chunkLabel": "164.310(c)",
+        "chunkNum": 1,
+        "chunkId": 40013,
+        "chunkOrig": 1,
+        "implNodes": [
+            4054
+        ]
+    },
+    "40104": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Select a Security  Official to be Assigned Responsibility for  HIPAA Security**  \u00b7     Identify the individual who has final  responsibility for security.[46](#_bookmark23)  \u00b7     Select an individual who is able to assess  effective security to serve  as the point of contact for security policy, implementation, and monitoring.  \u00b7     Who in the organization:  o    Oversees the development and communication of security policies and procedures?  o    Is responsible for  conducting the risk assessment?  o    Is responsible for conducting risk management?  o  Handles  the results of periodic security evaluations  and continuous monitoring?  o    Directs IT security purchasing and investment?  o  Ensures that  security concerns have  been addressed in system implementation?  \u00b7     Does the security official have adequate access and communications with  senior officials in the organization, such as executives, chief  information officers, chief compliance officers, and in-house counsel?  \u00b7    Who in the organization is authorized to accept risks  from systems on behalf of the organization? \n 2.   **Assign and Document the Individual\u2019s Responsibility**  \u00b7     Document the assignment to one individual\u2019s responsibilities in a job  description.[47](#_bookmark24)  \u00b7    Communicate this assigned role to the entire  organization.  \u00b7     Is there a complete job  description that accurately reflects assigned security duties and responsibilities?  \u00b7    Have the staff members  in the organization been notified as  to whom to call in the event of a security problem?[48](#_bookmark25)",
+        "chunkLabel": "164.308(a)(2)",
+        "chunkNum": 2,
+        "chunkId": 40104,
+        "chunkOrig": 0,
+        "implNodes": [
+            4022
+        ]
+    },
+    "40205": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Implement Policies and  Procedures for Authorization and/or Supervision**     **Implementation Specification  (Addressable)**  \u00b7     *Implement procedures for  the authorization and/or supervision of workforce members who work  with ePHI or in locations where it might be  accessed.*  \u00b7     Have chains of command and lines of authority been established?  \u00b7     Have staff members been made aware  of the identity and roles of their supervisors? \n 2.   **Establish Clear  Job Descriptions and  Responsibilities**[49](#_bookmark27)  \u00b7    Define roles  and responsibilities for all job  functions.  \u00b7     Assign appropriate levels  of security oversight, training, and access.  \u00b7     Identify in writing  who has the business need and who has  been granted permission to view, alter,  retrieve, and store ePHI and at what times, under  what circumstances, and for what purposes.[50](#_bookmark28)  \u00b7     Are there written job descriptions that are correlated with appropriate levels of  access to ePHI?  \u00b7     Are these job descriptions reviewed and updated on a  regular basis?  \u00b7     Have workforce members  been provided copies  of their job descriptions  and informed of the access granted to them,  as well as the conditions by which this access can be used?",
+        "chunkLabel": "164.308(a)(3)",
+        "chunkNum": 2,
+        "chunkId": 40205,
+        "chunkOrig": 0,
+        "implNodes": [
+            4023,
+            4024,
+            4025,
+            4026
+        ]
+    },
+    "40206": {
+        "chunkContent": "3.   **Establish Criteria and Procedures for  Hiring and Assigning Tasks**[51](#_bookmark29)  \u00b7     Ensure that workforce members have the necessary knowledge, skills, and abilities to fulfill particular roles (e.g., positions involving access to and use of sensitive  information).  \u00b7    Ensure that  these requirements are  included as part  of the personnel hiring  process.  \u00b7     Have the qualifications of candidates for specific positions been checked against the job  description?  \u00b7     Have determinations been made that candidates for specific positions are able to perform the  tasks of those positions?",
+        "chunkLabel": "164.308(a)(3)",
+        "chunkNum": 4,
+        "chunkId": 40206,
+        "chunkOrig": 0,
+        "implNodes": [
+            4023,
+            4024,
+            4025,
+            4026
+        ]
+    },
+    "40207": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 4.   **Establish a Workforce Clearance Procedure**  **Implementation Specification  (Addressable)**  \u00b7     *Implement procedures to determine that  the access of a  workforce member to ePHI is appropriate.*  \u00b7     Implement appropriate screening of persons who will  have access to ePHI.  \u00b7     Implement a procedure for obtaining clearance from appropriate offices or individuals where access is  provided or terminated.  \u00b7     Is there an implementation strategy that supports the designated access authorities?  \u00b7     Are applicants\u2019 employment and educational references checked, if reasonable and  appropriate?  \u00b7     Have background checks  been completed, if reasonable  and appropriate?  \u00b7     Are there procedures for determining that the appropriate workforce members have access  to the necessary  information?  \u00b7     Do procedures exist  for obtaining appropriate sign-offs to grant  or terminate access to ePHI?  \u00b7    Have clearance and  supervision procedures been developed for non-US  based workforce members that are applicable  to their location?",
+        "chunkLabel": "164.308(a)(3)",
+        "chunkNum": 7,
+        "chunkId": 40207,
+        "chunkOrig": 0,
+        "implNodes": [
+            4023,
+            4024,
+            4025,
+            4026
+        ]
+    },
+    "40208": {
+        "chunkContent": "5.   **Establish Termination Procedures**  **Implementation Specification  (Addressable)**  \u00b7     *Implement procedures for  terminating access to ePHI when the employment of or other arrangement with a  workforce member ends or as required by determinations  made as specified in \u00a7164.308(a)(3)(ii)(B).*  \u00b7     Develop a standard set of procedures that should be followed to recover access control  devices (e.g., identification badges, keys, access cards) when employment  ends.  \u00b7     Deactivate computer access accounts[52](#_bookmark30) (e.g., disable user IDs and  passwords) and facility access (e.g., change  facility security codes/PINs).  \u00b7     Are there separate procedures for voluntary termination (e.g., retirement, promotion, transfer, change of  employment) versus involuntary termination (e.g., termination for cause,  reduction in force, involuntary transfer, criminal or disciplinary actions),  if reasonable and appropriate?  \u00b7     Is there a standard checklist for all action items that should be completed when a workforce member leaves  (e.g., return of all access devices, deactivation of logon accounts [including remote access], and  delivery of any needed data solely under the  workforce member\u2019s control)?  \u00b7     Do other organizations need to be notified to deactivate accounts that  the workforce member  had access to in the  performance of their  employment duties?",
+        "chunkLabel": "164.308(a)(3)",
+        "chunkNum": 11,
+        "chunkId": 40208,
+        "chunkOrig": 0,
+        "implNodes": [
+            4023,
+            4024,
+            4025,
+            4026
+        ]
+    },
+    "40306": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Isolate Healthcare Clearinghouse Functions**[54](#_bookmark33)  **Implementation Specification  (Required)**  \u00b7     *If a healthcare  clearinghouse is part of a larger organization, the clearinghouse must  implement policies and procedures that  protect the ePHI  of the clearinghouse from unauthorized access  by the larger organization.*  \u00b7    Determine whether a component of the regulated entity constitutes a healthcare clearinghouse under the HIPAA  Security Rule.  \u00b7     If no clearinghouse functions exist, document this finding. If a  clearinghouse exists within the organization, implement procedures for access that  are consistent with the HIPAA Privacy Rule.  \u00b7     If healthcare clearinghouse functions are performed, are policies and procedures implemented to protect ePHI  from the other functions of the larger organization?  \u00b7     Does the healthcare clearinghouse share hardware or software with  a larger organization of which it is a part?  \u00b7     Does the healthcare clearinghouse share staff  or physical space with  staff from a larger organization?  \u00b7     Has a separate network or subsystem been established for the healthcare clearinghouse, if  reasonable and appropriate?  \u00b7     Has staff of the healthcare clearinghouse been trained to safeguard ePHI  from disclosure to the larger  organization, if required for compliance with the HIPAA Privacy Rule?",
+        "chunkLabel": "164.308(a)(4)",
+        "chunkNum": 2,
+        "chunkId": 40306,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4028,
+            4029,
+            4030
+        ]
+    },
+    "40307": {
+        "chunkContent": "2.   **Implement Policies and  Procedures for Authorizing Access**     **Implementation Specification  (Addressable)**  \u00b7     *Implement policies and  procedures for granting access to ePHI, such as through access  to a workstation, transaction,  program, process, or other mechanism.*  \u00b7     Decide and document procedures for how access to ePHI  will be granted to workforce members within the organization.  \u00b7    Select the basis for  restricting access to ePHI.  \u00b7     Select an access  control method (e.g.,  identity-based, role- based,  or other reasonable and appropriate means of access.)  \u00b7    Decide and document how access to ePHI will  be granted for privileged  functions.  \u00b7     Have appropriate authorization and clearance procedures, as specified in [Workforce Security](#_bookmark26) (\u00a7 164.308(a)(3)), been performed prior to  granting access?  \u00b7     Do the organization\u2019s systems have the capacity to set  access controls?[55](#_bookmark34)  \u00b7    Are there documented job  descriptions that accurately reflect assigned duties and responsibilities and enforce  segregation of duties?[56](#_bookmark35)  \u00b7    Has the organization documented procedures that specify how authorized personnel will  be granted access  to ePHI?  \u00b7    Does the organization grant  remote access to ePHI?",
+        "chunkLabel": "164.308(a)(4)",
+        "chunkNum": 4,
+        "chunkId": 40307,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4028,
+            4029,
+            4030
+        ]
+    },
+    "40308": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                                               \u00b7    Ensure that  there is a list of personnel with  authority to approve user  requests to access ePHI and  systems with ePHI.  \u00b7     Identify authorized users  with access to ePHI, including data owners and data  custodians.  \u00b7     Consider whether multiple access control methods are needed to protect ePHI according to the results of the risk assessment.  \u00b7    Determine whether direct  access to ePHI will ever be appropriate for individuals external to the  organization (e.g., business partners or patients seeking  access to their own ePHI).  \u00b7    What methods of access control  are used (e.g.,  identity- based, role-based, location-based, or a combination) to  protect ePHI?  \u00b7     Are there additional access control requirements for users who will  be accessing privileged functions?  \u00b7     Have organizational personnel been explicitly authorized to approve user requests to  access ePHI and/or systems with ePHI?",
+        "chunkLabel": "164.308(a)(4)",
+        "chunkNum": 7,
+        "chunkId": 40308,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4028,
+            4029,
+            4030
+        ]
+    },
+    "40309": {
+        "chunkContent": "3.   **Implement Policies and  Procedures for Access Establishment and Modification**  **Implementation Specification  (Addressable)**  \u00b7     *Implement policies and  procedures that \u2013 based on the covered entity or business associate\u2019s access authorization  policies \u2013 establish, document, review,  and modify a users  right of access to a workstation, transaction, program, or process.*  \u00b7    Establish standards for granting access  to ePHI.  \u00b7     Provide formal authorization from the appropriate authority before granting  access to ePHI.  \u00b7     Regularly review personnel access to ePHI  to ensure that access is still authorized and  needed  \u00b7     Modify personnel access  to ePHI, as needed, based  on review activities.  \u00b7     Are duties separated such that only the minimum necessary ePHI  is made available to each workforce member based on their job  requirements?  \u00b7     Are access decisions justified, approved, logged,  and retained?  \u00b7     Is personnel access  to ePHI regularly reviewed to ensure that access is still authorized  and needed?  \u00b7    Are activities that review  access to ePHI  logged and retained, including decisions that arise  from review activities?  \u00b7    Are decisions related to  the establishment and modification of workforce member authorization to access  ePHI documented?",
+        "chunkLabel": "164.308(a)(4)",
+        "chunkNum": 11,
+        "chunkId": 40309,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4028,
+            4029,
+            4030
+        ]
+    },
+    "40310": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 4.   **Evaluate Existing  Security Measures Related to Access  Controls**[57](#_bookmark36)  \u00b7     Evaluate the security features of access  controls that are already in place or those of any  planned for implementation, as appropriate.  \u00b7     Determine whether these security features involve alignment with  other existing management, operational, and  technical controls, such  as policy standards, personnel procedures, the maintenance and review of audit  trails, the identification and  authentication of users,  and physical  access controls.  \u00b7     Are there policies and procedures related  to the security of access controls?[58](#_bookmark37) If so, are they updated  regularly?  \u00b7     Are authentication mechanisms used to verify  the identity of those  accessing systems protected from inappropriate manipulation?[59](#_bookmark38)  \u00b7     Does management regularly review the list of access authorizations, including remote access authorizations, to verify that the list is accurate and has not been  inappropriately altered?[60](#_bookmark39)",
+        "chunkLabel": "164.308(a)(4)",
+        "chunkNum": 16,
+        "chunkId": 40310,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4028,
+            4029,
+            4030
+        ]
+    },
+    "40407": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Conduct a Training Needs Assessment**                  \u00b7    Determine the  training needs of the organization.  \u00b7     Interview and involve key personnel in assessing security training needs.  \u00b7     Use feedback and analysis of past events  to help determine training  needs.  \u00b7     Review organizational behavior issues, past incidents, and/or breaches to determine what  training is missing  or needs reinforcement, improvement, or periodic reminders.  \u00b7     What awareness, training, and education programs are needed? Which are required?  \u00b7     Is the organization monitoring current threats to determine possible areas of training needs?  \u00b7     Are there current, relevant threats (e.g., phishing, ransomware) about  which personnel need  training?  \u00b7     Do workforce members need training on any particular organization devices (e.g., IoT devices) or technology that pose a risk to ePHI?  \u00b7     What is the  current status regarding how these needs  are being addressed (e.g., how well are current efforts working)?  \u00b7     Where are the  gaps between the  needs and what  is being done (e.g., what  more needs to be done)?  \u00b7    What are the training priorities in terms  of content and audience?",
+        "chunkLabel": "164.308(a)(5)",
+        "chunkNum": 2,
+        "chunkId": 40407,
+        "chunkOrig": 0,
+        "implNodes": [
+            4031,
+            4032,
+            4033,
+            4034,
+            4035
+        ]
+    },
+    "40408": {
+        "chunkContent": "2.   **Develop and  Approve a Training Strategy and a Plan**  \u00b7     Address the specific HIPAA policies that  require security awareness  and training in the security awareness and training program.  \u00b7    Set organizational expectations for protecting ePHI.  \u00b7     In the security awareness and training program, outline  the program\u2019s scope, goals, target audiences, learning objectives, deployment  methods, and evaluation and measurement techniques, as well as the frequency  of training.  \u00b7     Is there a procedure in place to ensure that  everyone in the  organization receives security awareness training, including teleworkers and  remote personnel?  \u00b7     What type of security training is needed to address specific technical topics based on job  responsibility?  \u00b7     When should training be scheduled to ensure that compliance deadlines are met?  \u00b7     Has the organization considered the training needs of non- employees (e.g., contractors,  interns)?  \u00b7    Is there a need  to implement information security training  tailored to individual roles?",
+        "chunkLabel": "164.308(a)(5)",
+        "chunkNum": 4,
+        "chunkId": 40408,
+        "chunkOrig": 0,
+        "implNodes": [
+            4031,
+            4032,
+            4033,
+            4034,
+            4035
+        ]
+    },
+    "40409": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 3.   **Protection from  Malicious Software, Login Monitoring, and Password Management**     **Implementation Specifications  (All Addressable)**  \u00b7     *As reasonable and appropriate, train workforce members regarding procedures for:*  o  *Guarding against, detecting, and reporting  malicious software;*  o  *Monitoring login attempts and reporting  discrepancies; and*  o  *Creating, changing, and safeguarding passwords.*  \u00b7    Incorporate information  concerning workforce members\u2019 roles and responsibilities in implementing  these implementation specifications into  training and awareness efforts.  \u00b7     Do workforce members  know the importance of the timely application of system patches to  protect against malicious software and the exploitation of vulnerabilities?  \u00b7     Are workforce members  aware that login  attempts may be monitored?  \u00b7     Do workforce members who monitor login  attempts know to whom to  report discrepancies?  \u00b7     Do workforce members understand their roles and responsibilities in  selecting a password of appropriate strength, safeguarding their password,  and changing a password when it has been  compromised or is suspected  of being compromised?  \u00b7    Are there policies in place that  prohibit workforce members  from sharing passwords with others?",
+        "chunkLabel": "164.308(a)(5)",
+        "chunkNum": 7,
+        "chunkId": 40409,
+        "chunkOrig": 0,
+        "implNodes": [
+            4031,
+            4032,
+            4033,
+            4034,
+            4035
+        ]
+    },
+    "40410": {
+        "chunkContent": "4. **Develop Appropriate Awareness and Training Content, Materials, and Methods**  \u00b7    Select topics to be included in the training  materials, and consider current and relevant topics  (e.g., phishing, email security) for the protection of  ePHI.  \u00b7     Incorporate new information from email advisories, online IT security, daily news, websites, and periodicals, as  reasonable and appropriate.  \u00b7     Consider using a variety of media and avenues according to what is appropriate for the  organization based on workforce size, location, level of education, and other  factors.  \u00b7     Training should be an ongoing, evolving process in response to environmental and operational changes that affect the security of ePHI.  \u00b7    Are the topics selected for training and awareness the most relevant to the threats,  vulnerabilities, and risks identified during the risk assessment?  \u00b7     Does the organization periodically review the topics covered in training and awareness in light of updates to the risk assessment and current  threats?  \u00b7     Have workforce members  received a copy of and do they have ready access to the  organization\u2019s security procedures and policies?[62](#_bookmark42)  \u00b7     Do workforce members  know whom to contact and how  to handle a security incident?[63](#_bookmark43)  \u00b7     Do workforce members  understand the consequences of noncompliance with the stated security policies?[64](#_bookmark44)  \u00b7    Do workforce members who travel, telework, or work remotely know  how to handle  physical laptop security issues and information  security issues?[65](#_bookmark45)  \u00b7    Has the regulated entity  researched available training resources?",
+        "chunkLabel": "164.308(a)(5)",
+        "chunkNum": 11,
+        "chunkId": 40410,
+        "chunkOrig": 0,
+        "implNodes": [
+            4031,
+            4032,
+            4033,
+            4034,
+            4035
+        ]
+    },
+    "40411": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                                                                                                             \u00b7     Is dedicated training staff available for the delivery of security training? If not, who will deliver the training?  \u00b7    What is the security training budget? \n 5.   **Implement the Training**                               \u00b7     Schedule and conduct  the training outlined in the strategy and plan.  \u00b7     Implement any reasonable technique to disseminate the security messages in an organization, including  newsletters, screensavers, video recordings, email messages, teleconferencing sessions, staff meetings, and  computer-based training.  \u00b7     Have all workforce members received adequate training to fulfill  their security responsibilities?  \u00b7     Are there sanctions if workforce members do not complete the  required training?",
+        "chunkLabel": "164.308(a)(5)",
+        "chunkNum": 16,
+        "chunkId": 40411,
+        "chunkOrig": 0,
+        "implNodes": [
+            4031,
+            4032,
+            4033,
+            4034,
+            4035
+        ]
+    },
+    "40412": {
+        "chunkContent": "6.   **Implement Security Reminders**     **Implementation Specification  (Addressable)**  \u00b7    *Implement periodic security updates.*  \u00b7     Provide periodic security updates to staff,  business associates, and contractors.  \u00b7     Consider the benefits of ongoing communication with staff (e.g.,  emails, newsletters) on training topics to achieve HIPAA compliance and  protect ePHI.  \u00b7     What methods are available or already in use to make or keep workforce members aware of security (e.g.,  posters, booklets, anti-phishing training)?  \u00b7     Is the organization making use of existing resources (e.g., from the 405(d) program or other resources listed in [Appendix F](#_bookmark0)) to remind  staff of important security topics?  \u00b7     Is security refresher training performed on a periodic basis (e.g., annually)?  \u00b7     Is security awareness discussed with all  new hires?  \u00b7    Are security topics reinforced during routine staff meetings? \n 7.   **Monitor and Evaluate the Training Plan**[66](#_bookmark46)  \u00b7    Keep the  security awareness and  training program current.  \u00b7     Solicit trainee feedback to determine whether the training and  awareness are successfully reaching the intended audience.  \u00b7     Conduct training whenever changes occur in the  technology and practices, as appropriate.  \u00b7     Monitor the training program implementation to ensure  that all workforce members participate.  \u00b7    Implement corrective actions when problems arise.[67](#_bookmark47)  \u00b7    Are the workforce  members\u2019 training and professional  development programs documented and monitored, if reasonable and appropriate?  \u00b7    How are new workforce members trained on security?  \u00b7    Are new non-employees (e.g.,  contractors, interns) trained on security?",
+        "chunkLabel": "164.308(a)(5)",
+        "chunkNum": 22,
+        "chunkId": 40412,
+        "chunkOrig": 0,
+        "implNodes": [
+            4031,
+            4032,
+            4033,
+            4034,
+            4035
+        ]
+    },
+    "40508": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Determine the  Goals of an Incident Response**         \u00b7     Gain an understanding as to what constitutes a true security  incident. Under the HIPAA Security Rule, a security incident is the attempted  or successful unauthorized access, use, disclosure, modification, or  destruction of information or interference with system operations in an information system (45 CFR  \u00a7 164.304).  \u00b7     Ensure that the incident response program covers all parts  of the organization in which ePHI is created, stored, processed, or  transmitted.  \u00b7     Determine how the organization will  respond to a security  incident.  \u00b7     Establish a reporting mechanism and a process to coordinate responses to the security  incident.  \u00b7    Provide direct technical  assistance, advise vendors to address product-related problems, and provide liaisons to legal and criminal investigative groups, as needed.  \u00b7     Has the HIPAA-required security risk assessment resulted in a list of potential physical or technological  events that could lead to a breach of security?  \u00b7     Is there a procedure in place for reporting and handling  incidents?  \u00b7     Has an analysis been conducted that relates reasonably anticipated  organizational threats (that could result in a security incident) to the methods that would be used for mitigation?  \u00b7     Have the key functions of the organization been prioritized to  determine what would need to be restored first in the event of a disruption?[69](#_bookmark50)",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 2,
+        "chunkId": 40508,
+        "chunkOrig": 0,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40509": {
+        "chunkContent": "2.   **Develop and  Deploy an Incident Response Team or Other  Reasonable and Appropriate Response Mechanism**  \u00b7     Determine whether the size, scope, mission, and other aspects of the organization justify the reasonableness and appropriateness of maintaining a standing incident  response team.  \u00b7     Identify appropriate individuals to be part of a formal incident response team if the organization has  determined that implementing an incident response team is reasonable  and appropriate.  \u00b7     Consider assigning secondary personnel to be part of the  incident response team in the event that primary  personnel are  unavailable.  \u00b7     Do members of the team  have adequate knowledge of the  organization\u2019s hardware and software?  \u00b7     Do members of the team  have the authority to speak for the organization to the media, law  enforcement, and clients or business partners?  \u00b7     Has the incident response team received appropriate training in incident response activities?",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 4,
+        "chunkId": 40509,
+        "chunkOrig": 0,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40510": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 7,
+        "chunkId": 40510,
+        "chunkOrig": 0,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40511": {
+        "chunkContent": "3. **Develop and  Implement Policy and Procedures to Respond to and Report Security Incidents**     **Implementation Specification  (Required)**  \u00b7     *Identify and respond to  suspected or known security incidents; mitigate, to the extent practicable,  harmful effects of security incidents that are known to the covered entity or business associate;  and document security incidents and their outcomes.*  \u00b7    Ensure that  an organizational incident response policy[70](#_bookmark51) is in place that addresses  all parts of the organization in which ePHI is created, stored, processed, or  transmitted.  \u00b7     Document incident response procedures that can provide  a single point of reference to guide the day-to-day operations of the  incident response team.  \u00b7     Review incident response procedures with staff  who have roles and  responsibilities related to incident response; solicit suggestions for  improvements; and make changes to reflect input, if reasonable and  appropriate.  \u00b7    Consider conducting tests of the incident response plan.  \u00b7     Update the procedures as required based  on changing organizational  needs.[71](#_bookmark52)  \u00b7     Has the organization determined that maintaining a staffed security incident hotline would  be reasonable and appropriate?  \u00b7     Has the organization developed processes for documenting and tracking incidents?  \u00b7     Has the organization determined reasonable and appropriate mitigation options for security incidents?  \u00b7     Has the organization developed standardized incident report templates to record necessary information related  to incidents?  \u00b7     Has the organization determined that information captured in the reporting templates is reasonable and appropriate to investigate an incident?  \u00b7     Has the organization determined the conditions under which information related to a security breach will be  disclosed to the media?  \u00b7     Have appropriate (internal and external) persons who should be informed of a security",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 11,
+        "chunkId": 40511,
+        "chunkOrig": 0,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40512": {
+        "chunkContent": "the conditions under which information related to a security breach will be  disclosed to the media?  \u00b7     Have appropriate (internal and external) persons who should be informed of a security breach been identified? Has a contact information  list been prepared?  \u00b7     Has a written  incident response plan  been developed and provided to the incident response  team?  \u00b7    Has the incident response plan been tested?",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 16,
+        "chunkId": 40512,
+        "chunkOrig": 0,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40513": {
+        "chunkContent": "4. **Incorporate Post-Incident Analysis Into  Updates and Revisions**  \u00b7     Measure effectiveness and update security incident response  procedures to reflect lessons learned and identify actions to take  that will improve security controls  after a security incident.  \u00b7     Incidents caused by or influenced by known risks  should feed back into the risk assessment process for a reevaluation  of impact and/or likelihood.  \u00b7     Remediation and corrective action plans that  arise from incidents should  serve as input to the risk assessment/management process.  \u00b7     Has the organization analyzed records (e.g., log files, malware) to understand the nature, extent,  and scope of the incident?  \u00b7     Does the organization reassess risk to ePHI based  on findings from this analysis?  \u00b7     Does the incident response team keep adequate documentation of security incidents and their outcomes, which may include what  weaknesses were exploited and how access to the information was gained?  \u00b7    Do records reflect the new contacts and resources  identified for responding to an incident?",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 22,
+        "chunkId": 40513,
+        "chunkOrig": 0,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40514": {
+        "chunkContent": "**Key Activities**  **Description**  **Sample Questions**                                         \n ------------------  ---------------  ------------------------------------------------------------ \n                                      \u00b7    Does the organization  consider whether current procedures were adequate for responding to a particular security incident?",
+        "chunkLabel": "164.308(a)(6)",
+        "chunkNum": 29,
+        "chunkId": 40514,
+        "chunkOrig": 0,
+        "implNodes": [
+            4036,
+            4037
+        ]
+    },
+    "40609": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Develop a Contingency Planning Policy**[73](#_bookmark55)  \u00b7    Define the organization\u2019s overall contingency objectives.  \u00b7     Establish the organizational framework, roles, and responsibilities for this area.  \u00b7     Address scope, resource requirements, training, testing, plan maintenance, and backup  requirements.  \u00b7     What critical services must be provided within specified  time frames?  o  Patient treatment, for example, may need to be  performed without disruption.  o  By  contrast, claims processing may be delayed during an emergency with  no long-term damage to the organization.  \u00b7     Have cross-functional dependencies been identified to determine how a failure in one  system may negatively  impact another one?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 2,
+        "chunkId": 40609,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40610": {
+        "chunkContent": "2.   **Conduct an Applications and Data Criticality Analysis**[74](#_bookmark56)  **Implementation Specification  (Addressable)**  \u00b7     *Assess the relative criticality of specific applications and data in support of other Contingency Plan components.*  \u00b7     Identify the activities and material involving ePHI that are critical to business operations.  \u00b7     Identify the critical services or operations and the manual and automated processes that  support them involving ePHI.  \u00b7     Determine the amount  of time that  the organization can tolerate disruptions to these  operations, materials, or services (e.g., due to power outages).  \u00b7     Evaluate the current  and available levels  of redundancy and geographic  distribution of any storage service providers to identify risks to service  availability and  determine restoration times.  \u00b7     What hardware, software, and personnel are critical to daily operations?  \u00b7     What is the  impact on desired service levels if these critical assets are not available?  \u00b7     What, if any, support is provided by external providers (e.g., cloud  service providers, internet service providers,  utilities, or contractors)?  \u00b7    What is the nature  and degree of impact on the operation if any of the critical resources or service providers are not available?  \u00b7    Has the organization identified vendors or service providers that are critical to business operations?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 4,
+        "chunkId": 40610,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40611": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                                               \u00b7     Consider whether any vendor/service provider arrangements are  critical to operations and address them as appropriate to ensure  availability and reliability.  \u00b7    Establish cost-effective strategies for recovering these critical services or processes.  \u00b7     Has the organization sufficiently addressed the availability  and reliability of these services (e.g., via service-level agreements,  contracts)? \n 3.   **Identify Preventive Measures**[75](#_bookmark57)       \u00b7     Identify preventive measures for each defined scenario that could  result in the  loss of a critical service  operation involving the use of ePHI.  \u00b7     Ensure that identified preventive measures are practical  and feasible in terms of their applicability in a given environment.  \u00b7     What alternatives for continuing operations of the organization are  available in case  of the loss  of any critical function or resource?  \u00b7     What is the cost associated with the preventive measures that may be considered?  \u00b7     Are the preventive measures feasible (i.e.,  affordable and practical  for the environment)?  \u00b7    What plans, procedures, or  agreements need to be initiated to enable  the implementation of the preventive measures if they are  necessary?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 7,
+        "chunkId": 40611,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40612": {
+        "chunkContent": "4.   **Develop Recovery Strategy**[76](#_bookmark58)          \u00b7     Finalize the set of contingency procedures that should be invoked for  all identified impacts, including emergency mode operation. The strategy must  be adaptable to the existing operating environment and address allowable  outage times and  the associated priorities identified in Key Activity 2.  \u00b7    If part of the strategy depends  on external organizations for support, ensure that  formal agreements are in place with specific requirements stated.  \u00b7     Have procedures related to recovery from  emergency or disastrous  events been documented?  \u00b7     Has a coordinator who manages, maintains, and updates the  plan been designated?  \u00b7     Has an emergency call list been distributed to all workforce members? Have recovery procedures been documented?  \u00b7    Has a determination been  made regarding when the plan needs to be activated (e.g.,  anticipated duration of outage,  tolerances for outage or loss of capability, impact on service delivery)? \n 5.   **Data Backup  Plan and Disaster Recovery Plan**  **Implementation Specifications  (Both Required)**  \u00b7     *Establish and  implement procedures to create and maintain retrievable exact copies  of ePHI.*  \u00b7     *Establish (and  implement as needed) procedures to restore any loss of data.*  \u00b7     Is there a formal, written contingency plan? Does  it address disaster recovery and data backup?[77](#_bookmark59)  \u00b7     Does the disaster recovery plan address what data is to be restored and in what order?  \u00b7    Do data backup procedures exist that include  all ePHI?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 11,
+        "chunkId": 40612,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40613": {
+        "chunkContent": "----  ------------------------------------------------------------ \n       ![img](file:///C:/Users/seedl/AppData/Local/Temp/msohtmlclip1/01/clip_image001.gif) \n\n\n\n\n\n75 See Key Activities 5.1.7.5, *Data Backup Plan and Disaster Recovery Plan*, and 5.1.7.6, *Develop and Implement an Emergency Mode Operation Plan*. This activity and all associated bullets in the Description and Sample Questions are part of the data backup plan, disaster recovery plan, and the emergency mode operation plan implementation specifications.\n\n76 See Key Activities 5.1.7.5, *Data Backup Plan and Disaster Recovery Plan*, and 5.1.7.6, *Develop and Implement an Emergency Mode Operation Plan*. This activity and all associated bullets in the Description and Sample Questions are part of the data backup plan, disaster recovery plan, and the emergency mode operation plan implementation specifications.\n\n77 See Key Activity 5.1.7.1, Develop Contingency Planning Policy.",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 16,
+        "chunkId": 40613,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40614": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                                                                                                             \u00b7     Is the frequency of backups appropriate for the environment?  \u00b7    Are responsibilities assigned to conduct backup  activities?  \u00b7     Are data backup  procedures documented and  available to other staff?  \u00b7     Are backup logs reviewed and data restoration tests conducted to ensure the integrity of data backups?  \u00b7    Is at least one copy of the data  backup stored offline to protect against corruption due to ransomware or other similar  attacks?  \u00b7     Are backups or images of operating systems, devices, software, and  configuration files necessary to support the confidentiality, integrity, and  availability of ePHI included  in the data  backup plan?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 22,
+        "chunkId": 40614,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40615": {
+        "chunkContent": "6.   **Develop and Implement  an Emergency Mode Operation Plan**  **Implementation Specification  (Required)**  \u00b7     *Establish (and  implement as needed) procedures to enable the continuation of critical  business processes to protect the security of ePHI while operating in  emergency mode.*  \u00b7     \u201cEmergency mode\u201d operation involves only those critical business processes that must occur  to protect the security  of ePHI during and immediately after a crisis situation.  \u00b7     Have procedures been  developed to continue the critical  functions identified in Key Activity 2?  \u00b7     If so, have those critical functions that also  involve the use of ePHI been identified?  \u00b7     Would different staff,  facilities, or systems  be needed to perform those functions?  \u00b7    Has the security of ePHI in that alternative mode of operation  been assured?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 29,
+        "chunkId": 40615,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40616": {
+        "chunkContent": "7.   **Testing and  Revision Procedure**  **Implementation Specification  (Addressable)**  \u00b7     *Implement procedures for the periodic testing and revision of contingency plans.*  \u00b7     Test the contingency plan on a predefined cycle  (stated in the policy  developed under Key Activity 1), if reasonable and appropriate.  \u00b7    Train those  with defined plan responsibilities in their roles.  \u00b7    If possible, involve  external entities (e.g., vendors, alternative site or service providers) in testing  exercises.  \u00b7     Make key decisions regarding how the  testing is to occur  (e.g., tabletop exercise versus staging a real operational scenario,  including actual loss of capability).  \u00b7    Decide how  to segment the type of testing  based on the assessment of business impact and the acceptability of a  sustained loss of service.  \u00b7    How is the contingency plan to be tested?  \u00b7    Does testing  lend itself to a phased  approach?  \u00b7     Is it feasible to actually take  down functions or services for the purposes of testing?  \u00b7     Has the organization conducted backup recovery testing to ensure  that critical data can be recovered using existing data backups?  \u00b7     Does the backup recovery testing verify the ability to recover data  and operations based on identified testing scenarios using actual tests  (i.e., not tabletop exercises)?  \u00b7     Can testing be done during  normal business hours  or must it take place during  off hours?  \u00b7    Have the tests included personnel with contingency planning responsibilities?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 37,
+        "chunkId": 40616,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40617": {
+        "chunkContent": "**Key Activities**  **Description**  **Sample Questions**                                         \n ------------------  ---------------  ------------------------------------------------------------ \n                                      \u00b7     Have the results of each test been documented and any problems  with the test reviewed and corrected?  \u00b7     If full testing is infeasible, has a tabletop scenario (e.g., a classroom-like exercise) been  considered?  \u00b7    How frequently will the plan be tested (e.g.,  annually)?  \u00b7    When should  the plan be revised?",
+        "chunkLabel": "164.308(a)(7)",
+        "chunkNum": 46,
+        "chunkId": 40617,
+        "chunkOrig": 0,
+        "implNodes": [
+            4027,
+            4038,
+            4039,
+            4040,
+            4041,
+            4042,
+            4043
+        ]
+    },
+    "40710": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Determine Whether  Internal or External  Evaluation is Most Appropriate**  \u00b7    Decide whether the evaluation will  be conducted with internal staff resources or  external consultants.  \u00b7    Engage external expertise to assist  the internal evaluation team where additional skills  and expertise are  determined to be reasonable and appropriate.  \u00b7     Use internal resources to supplement an external source of help because these  internal resources can provide the best institutional knowledge and  history of internal policies and practices.  \u00b7     Which staff has the technical experience and expertise to evaluate the systems?  \u00b7     Are the evaluators sufficiently independent to provide  objective reporting?  \u00b7     How much training will staff need  on security-related  technical and non-technical issues?  \u00b7     If an outside vendor is used, what factors should be considered when  selecting the vendor, such as credentials and experience?  \u00b7     What is the  budget for internal resources to assist  with an evaluation?  \u00b7    What is the budget  for external services to assist with  an evaluation?",
+        "chunkLabel": "164.308(a)(8)",
+        "chunkNum": 2,
+        "chunkId": 40710,
+        "chunkOrig": 0,
+        "implNodes": [
+            4028,
+            4044
+        ]
+    },
+    "40711": {
+        "chunkContent": "2.   **Develop Standards and  Measurements for Reviewing All Standards and Implementation Specifications of the  Security Rule**[79](#_bookmark62)  \u00b7     Develop and document organizational policies and procedures[80](#_bookmark63) for conducting  evaluation.  \u00b7     Once security controls have been implemented in response to the  organization\u2019s risk assessment and management processes, periodically review  these implemented security measures to ensure their  continued effectiveness in protecting ePHI.  \u00b7    Consider determining any  specific evaluation metrics and/or measurements to be captured during evaluation.  \u00b7     Has the organization documented policies and procedures  for conducting the evaluation of security controls?  \u00b7     Have management, operational, and technical issues  been considered?  \u00b7     Do the elements of each evaluation procedure (e.g., questions, statements, or other components) address individual, measurable security safeguards for ePHI?  \u00b7    Has the organization developed evaluation procedures  that capture any desired metrics or measurements?",
+        "chunkLabel": "164.308(a)(8)",
+        "chunkNum": 4,
+        "chunkId": 40711,
+        "chunkOrig": 0,
+        "implNodes": [
+            4028,
+            4044
+        ]
+    },
+    "40712": {
+        "chunkContent": "**Key Activities**           **Description**                                               **Sample Questions**                                         \n ---------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                              Metrics and/or  measurements can assist  in tracking progress over  time.  \u00b7     Use an evaluation strategy and tool that considers all elements of the HIPAA  Security Rule and  can be tracked, such as a questionnaire or  checklist.  \u00b7     Implement tools that  can provide reports  on the level  of compliance, integration, or maturity of a particular security  safeguard deployed to protect ePHI.  \u00b7     If available, consider engaging corporate, legal, or regulatory compliance staff when conducting the analysis.  \u00b7     Leverage any existing reports or documentation that may already be  prepared by the organization addressing the compliance, integration, or  maturity of a particular  security safeguard deployed to protect ePHI.  \u00b7     Has the organization determined that the procedure must be tested in a few areas or  systems?  \u00b7     Does the evaluation tool consider all standards and implementation specifications of the HIPAA  Security Rule?  \u00b7     Does the evaluation tool address the protection of ePHI  that is collected, used, or disclosed?",
+        "chunkLabel": "164.308(a)(8)",
+        "chunkNum": 7,
+        "chunkId": 40712,
+        "chunkOrig": 0,
+        "implNodes": [
+            4028,
+            4044
+        ]
+    },
+    "40713": {
+        "chunkContent": "3.   **Conduct Evaluation**  \u00b7     Determine in advance what departments and/or  staff will participate in  the evaluation.  \u00b7     Determine what constitutes an environmental or operational change  that affects the security of ePHI.  \u00b7     Determine when evaluations are conducted in response to an environmental or operational  change that affects the security of ePHI (e.g., prior to the change,  contemporaneous with the change, after the change).  \u00b7     Secure management support  for the evaluation process to ensure  participation.  \u00b7     Collect and document all needed information. Collection methods may  include the use of interviews, surveys, and the outputs of automated tools,  such as access control auditing tools, system  logs, and the results of penetration  testing.  \u00b7     Conduct penetration testing  (where testers attempt  to compromise system security for the sole purpose of testing the  effectiveness of security controls), if reasonable and appropriate.  \u00b7    Evaluation may include  reviewing organizational policies and procedures, assessing the implementation of security  \u00b7     If available, have staff members with knowledge of IT security been  consulted and included in the evaluation team?  \u00b7     Are appropriate personnel notified of planned environmental or operational changes that could affect the security of ePHI?  \u00b7     Is a change management process in place that includes identification  and communication of environmental and operational changes that could  affect the security of ePHI?  \u00b7     If penetration testing has been determined to be reasonable and  appropriate, has specifically worded, written approval from senior  management been received for any planned penetration  testing?  \u00b7     Has the process been formally communicated to those who have  been assigned roles  and responsibilities in the  evaluation process?  \u00b7     Has the organization explored the use of automated tools to support the evaluation process?",
+        "chunkLabel": "164.308(a)(8)",
+        "chunkNum": 11,
+        "chunkId": 40713,
+        "chunkOrig": 0,
+        "implNodes": [
+            4028,
+            4044
+        ]
+    },
+    "40714": {
+        "chunkContent": "**Key Activities**                        **Description**                                               **Sample Questions**                                         \n ----------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                           controls, collecting  evidence of security control implementation,  and performing physical walk-throughs.                                                               \n 4.   **Document Results**                 \u00b7     Document each evaluation finding as well  as remediation options,  recommendations, and decisions.  \u00b7     Document known gaps  between identified risks,  mitigating security controls, and any acceptance of risk, including justification.  \u00b7     Develop security program  priorities and establish targets for continuous improvement.  \u00b7     Utilize the results of evaluations to inform impactful security changes to protect  ePHI.  \u00b7    Communicate evaluation  results, metrics, and/or measurements to relevant organizational personnel.  \u00b7     Does the process support the development of security recommendations?  \u00b7     When determining how best to display evaluation results, have written reports that highlight key findings and  recommendations been considered?  \u00b7     If a written  final report is to be circulated among  key staff, have steps been  taken to ensure that it is made available only to those persons designated to  receive it?  \u00b7    Does the  organization use evaluation results to enhance the protection of ePHI rather  than for the sake of compliance?",
+        "chunkLabel": "164.308(a)(8)",
+        "chunkNum": 16,
+        "chunkId": 40714,
+        "chunkOrig": 0,
+        "implNodes": [
+            4028,
+            4044
+        ]
+    },
+    "40715": {
+        "chunkContent": "5.   **Repeat Evaluations Periodically**  \u00b7     Establish the frequency of evaluations. Consider the sensitivity of the ePHI  controlled by the organization as well as the organization\u2019s size,  complexity, and environmental and/or operational changes (e.g., other  relevant laws or accreditation requirements).  \u00b7     In addition to periodic reevaluations, consider repeating evaluations when environmental and operational changes that affect the security of ePHI  are made to the organization (e.g., if new technology is adopted or if there  are newly recognized risks to the security of ePHI).  \u00b7     Do security policies specify that evaluations will be repeated when  environmental and operational changes are made that affect the security of ePHI?  \u00b7     Do policies on the frequency of security evaluations reflect any and all relevant federal or state laws that bear  on environmental or operational changes affecting the security of ePHI?  \u00b7     Has the organization explored the use of automated tools to support periodic evaluations?",
+        "chunkLabel": "164.308(a)(8)",
+        "chunkNum": 22,
+        "chunkId": 40715,
+        "chunkOrig": 0,
+        "implNodes": [
+            4028,
+            4044
+        ]
+    },
+    "40811": {
+        "chunkContent": "**Table 16. Key activities, descriptions, and sample questions for the Business Associate Contracts and Other Arrangements standard**\n\n **Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Identify Entities That  Are Business Associates Under  the HIPAA Security Rule**  \u00b7     Identify the individual or department who will be responsible for coordinating the execution of business  associate agreements or other arrangements.  \u00b7     Reevaluate the list of business associates to determine who has access to ePHI in order to assess whether the list is  complete and current.  \u00b7    Identify systems  covered by the contract/agreement.  \u00b7     Business associates must  have a BAA  in place with each of their subcontractor business  associates. Subcontractor business associates are also directly liable for  their own Security Rule violations.  \u00b7     Does each written  and executed BAA contain sufficient language to ensure that ePHI  and any other required information types will be protected?  \u00b7     Have all organizations or vendors that  provide a service or function on behalf of the organization been identified?  Such services may include:  o  Cloud service  providers  o    Claims processing or billing  o    Data analysis  o    Utilization review  o    Quality assurance  o    Benefit management  o    Practice management  o    Re-pricing  o    Hardware/software maintenance  o    All other HIPAA-regulated functions",
+        "chunkLabel": "164.308(b)(1)",
+        "chunkNum": 2,
+        "chunkId": 40811,
+        "chunkOrig": 0,
+        "implNodes": [
+            4029,
+            4045
+        ]
+    },
+    "40812": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                                                                                                             \u00b7     Have outsourced functions that involve the use of ePHI  been considered? Such functions may include:  o  Actuarial services  o    Data storage and/or  aggregation  o    Administrative services  o    Accreditation  o    Financial services  o    IT support \n 2.   **Establish a Process for Measuring  Contract Performance and Terminating the Contract if Security Requirements  Are Not Being Met**[83](#_bookmark66)  \u00b7    Maintain clear  lines of communication between covered  entities and business associates regarding the protection  of ePHI per the BAA or contract.  \u00b7    Establish criteria for measuring contract performance.  \u00b7    What is the service being performed?  \u00b7    What is the expected outcome?  \u00b7     Is there a process for  reporting security incidents related to the agreement?  \u00b7     Are additional assurances of protections for ePHI from  the business associate necessary? If so, where will such additional  assurances be documented (e.g., in the BAA, service-level agreement, or other  documentation)? and how will they be met (e.g., providing documentation of  implemented safeguards, audits,  certifications)?",
+        "chunkLabel": "164.308(b)(1)",
+        "chunkNum": 4,
+        "chunkId": 40812,
+        "chunkOrig": 0,
+        "implNodes": [
+            4029,
+            4045
+        ]
+    },
+    "40813": {
+        "chunkContent": "3.   **Written Contract or Other Arrangement**  **Implementation Specification  (Required)**  \u00b7     *Document the satisfactory  assurances required by this standard through a written contract or other arrangement with the business associate  that meets the applicable requirements of \u00a7164.314(a)*.[84](#_bookmark67) Readers may find useful  resources in [A](#_bookmark0)[ppendix F,](#_bookmark0) including OCR BAA guidance and/or templates that include applicable  language.  \u00b7     Execute new or update existing agreements or  arrangements, as appropriate.  \u00b7    Identify roles  and responsibilities.  \u00b7     Include security requirements in business associate contracts and agreements to address the confidentiality,  integrity, and availability of ePHI.  \u00b7    Specify any training  requirements associated with the contract/agreement or arrangement, if reasonable and appropriate.  \u00b7     Who is responsible for coordinating and preparing the final agreement or arrangement?  \u00b7     Does the agreement or arrangement specify how information is to be transmitted to and from  the business associate?  \u00b7     Have security controls been specified for the business associate?  \u00b7     Are clear responsibilities identified and established regarding potentially overlapping HIPAA obligations (e.g., if hosting ePHI in the cloud, will the covered entity,  business associate, or both address encryption)?  \u00b7     Have appropriate organizational personnel been trained  in the process of initiating and maintaining a business associate  agreement (BAA)?",
+        "chunkLabel": "164.308(b)(1)",
+        "chunkNum": 7,
+        "chunkId": 40813,
+        "chunkOrig": 0,
+        "implNodes": [
+            4029,
+            4045
+        ]
+    },
+    "40912": {
+        "chunkContent": "**Table 17. Key activities, descriptions, and sample questions for the Facility Access Controls standard**\n\n **Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Conduct an Analysis of Existing Physical Security Vulnerabilities**[86](#_bookmark70) [87](#_bookmark71)  \u00b7     Inventory facilities and identify shortfalls and/or vulnerabilities in current physical security capabilities.  \u00b7     Assign degrees of significance to each vulnerability identified and  ensure that proper  access is allowed.  \u00b7     Determine which types  of facilities require access controls to  safeguard ePHI, such as:  o    Data centers  o    Peripheral equipment locations (e.g., wiring  closets, storage areas, exam rooms)  o    IT staff offices  o    Workstation locations  \u00b7     If reasonable and  appropriate, do non-public areas have locks  and cameras?  \u00b7     Are computing devices  protected from public  access or viewing?[88](#_bookmark72)  \u00b7     Are entrances and exits that  lead to locations with ePHI secured?  \u00b7     Do policies and procedures already  exist regarding access to and use of facilities and  equipment?  \u00b7     Are there possible natural or human-made disasters that could  happen in the environment?[89](#_bookmark73)  \u00b7     Do normal physical protections exist (e.g.,  locks on doors, windows, and other means of  preventing unauthorized access)?  \u00b7     Are network wiring  cables protected and  not exposed to unauthorized personnel?  \u00b7     Is there a list of workforce  members who can access the  facility after hours  via the use of keys,  badge access, and  knowledge of the security or alarm system?",
+        "chunkLabel": "164.310(a)",
+        "chunkNum": 2,
+        "chunkId": 40912,
+        "chunkOrig": 0,
+        "implNodes": [
+            4030,
+            4047
+        ]
+    },
+    "40913": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 2.   **Identify Corrective Measures**[90](#_bookmark74) [91](#_bookmark75)  \u00b7     Identify and assign responsibility for the measures and activities necessary to correct deficiencies and ensure that proper physical access is allowed.  \u00b7     Develop and deploy  policies and procedures to ensure that repairs, upgrades, and/or  modifications are made to the appropriate physical areas of the facility  while ensuring that proper access is allowed.  \u00b7    Who is responsible for security?[92](#_bookmark76)  \u00b7     Is a workforce member other than  the security official responsible for  facility/physical security?  \u00b7     Are facility access  control policies and  procedures already in  place? Do they need to be revised?  \u00b7     What training will  be needed for employees to understand  the policies and procedures?[93](#_bookmark77)  \u00b7     How will decisions and actions be documented?[94](#_bookmark78)  \u00b7    Is a property owner or  external party (e.g., cloud service provider) required to make  physical changes to meet the requirements?",
+        "chunkLabel": "164.310(a)",
+        "chunkNum": 4,
+        "chunkId": 40913,
+        "chunkOrig": 0,
+        "implNodes": [
+            4030,
+            4047
+        ]
+    },
+    "40914": {
+        "chunkContent": "3.   **Develop a Facility Security Plan**  **Implementation Specification  (Addressable)**  \u00b7     *Implement policies and procedures to safeguard the  facility and the equipment therein from unauthorized physical access,  tampering, and theft.*  \u00b7     Implement appropriate measures to provide physical security protection for ePHI in  a regulated entity\u2019s possession.[95](#_bookmark79)  \u00b7     Include documentation of the facility inventory, physical maintenance records, and a history of changes, upgrades, and other modifications.  \u00b7    Identify points  of access to the facility and existing security controls.  \u00b7     Is there an inventory of facilities and  existing security practices?  \u00b7     What are the current procedures for securing the facilities  (e.g., exterior, interior, equipment, access controls, maintenance records)?  \u00b7     Is a workforce member other than  the security official responsible for the facility  plan?  \u00b7     Is there a contingency plan  already in place,  under revision, or under development?[96](#_bookmark80) \n 4.   **Develop Access  Control and Validation  Procedures**     **Implementation Specification  (Addressable)**  \u00b7     *Implement procedures to  control and validate a persons access to facilities based on their  role or function, including visitor control and control of access to software  programs for testing and revision.*  \u00b7     What are the policies and procedures in place for controlling access  by staff, contractors, visitors, and  probationary employees?  \u00b7    Do the procedures identify  individuals, roles, or job functions that are authorized to access software programs for testing and revision?",
+        "chunkLabel": "164.310(a)",
+        "chunkNum": 7,
+        "chunkId": 40914,
+        "chunkOrig": 0,
+        "implNodes": [
+            4030,
+            4047
+        ]
+    },
+    "40915": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                                               \u00b7     Implement procedures to provide facility access to authorized  personnel and visitors and exclude unauthorized persons.  \u00b7     How many access  points exist in each facility? Is there an inventory?  \u00b7    Is monitoring equipment necessary?  \u00b7    Is there a periodic review of personnel with physical access? \n 5.   **Establish Contingency Operations Procedures**  **Implementation Specification  (Addressable)**  \u00b7     *Establish (and  implement as needed)  procedures that allow facility access in support of the  restoration of lost data under the Disaster Recovery Plan and Emergency Mode  Operations Plan in the event of an emergency.*  \u00b7     Are there procedures to allow facility access while  restoring lost data in the event of an emergency?  \u00b7    Who needs access to ePHI in the event  of a disaster?  \u00b7     What is the  backup plan for access to the facility and/or ePHI?  \u00b7     Who is responsible for the contingency plan for access  to ePHI?  \u00b7     Who is responsible for implementing the contingency plan for access to ePHI in each  department or unit?  \u00b7    Will the contingency plan  be appropriate in the event  of all types of potential  disasters (e.g., fire, flood, earthquake)?",
+        "chunkLabel": "164.310(a)",
+        "chunkNum": 11,
+        "chunkId": 40915,
+        "chunkOrig": 0,
+        "implNodes": [
+            4030,
+            4047
+        ]
+    },
+    "40916": {
+        "chunkContent": "6.   **Maintain Maintenance Records**[97](#_bookmark81)  **Implementation Specification  (Addressable)**  \u00b7     *Implement policies and  procedures to document repairs and modifications to the physical components of a facility  that are related to security (e.g., hardware, walls, doors, and locks).*  \u00b7     Are policies and procedures developed and implemented that specify how to document repairs and modifications to the physical components of a facility that are related to security?  \u00b7     Are records of repairs to hardware, walls,  doors, and locks maintained?  \u00b7    Has responsibility for maintaining these records been assigned?",
+        "chunkLabel": "164.310(a)",
+        "chunkNum": 16,
+        "chunkId": 40916,
+        "chunkOrig": 0,
+        "implNodes": [
+            4030,
+            4047
+        ]
+    },
+    "41013": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Identify Workstation and Device Types  and Functions or Uses**  \u00b7     Inventory workstations and devices that create, store, process, or  transmit ePHI. Be sure to consider the multitude of computing devices (e.g., medical equipment, IoT devices, tablets, smart  phones).  \u00b7     Develop policies and  procedures for each  type of device and identify and accommodate  their unique issues.  \u00b7     Classify devices based  on the capabilities, connections, and  allowable activities for each device used.  \u00b7     Determine the proper function and manner by which specific  workstations or classes of workstations are permitted to access ePHI (e.g.,  applications permitting access to ePHI  that are allowed on workstations used by a hospital\u2019s customer service call  center or its radiology department).  \u00b7     Do the policies and procedures identify devices that access ePHI and those that do not?  \u00b7     Is there an inventory of device types  and locations in the  organization?  \u00b7    Who is responsible for this inventory and its maintenance?  \u00b7     What tasks are commonly performed on a given  device or type of device?  \u00b7     Are all types  of computing devices used as workstations identified along with the  use of these devices?  \u00b7     Are all devices that create, store,  process, or transmit ePHI owned by the regulated entity?  \u00b7     Are some devices  personally owned or owned by another  party?  \u00b7    Has the organization considered the use of automation to manage device inventory?",
+        "chunkLabel": "164.310(b)",
+        "chunkNum": 2,
+        "chunkId": 41013,
+        "chunkOrig": 0,
+        "implNodes": [
+            4053
+        ]
+    },
+    "41014": {
+        "chunkContent": "2.   **Identify the Expected  Performance of Each Type of Workstation and Device**  \u00b7     Develop and document policies and procedures related to the  proper use and performance of devices that create, store, process, or  transmit ePHI.  \u00b7    How are these devices  used in day-to-day operations?  \u00b7    Which devices are involved in various work  activities?  \u00b7     What are key operational risks  that could result  in a breach of security?  \u00b7     Do the policies and procedures address the use of these  devices for any personal use?  \u00b7     Has the organization updated training and awareness content to include the proper use and performance of  these devices?",
+        "chunkLabel": "164.310(b)",
+        "chunkNum": 4,
+        "chunkId": 41014,
+        "chunkOrig": 0,
+        "implNodes": [
+            4053
+        ]
+    },
+    "41015": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 3.   **Analyze Physical Surroundings for Physical Attributes**[98](#_bookmark83)  \u00b7     Ensure that any risks associated with a device\u2019s surroundings are  known and analyzed for possible  negative impacts.  \u00b7     Develop policies and procedures that will prevent or preclude the  unauthorized access of unattended devices, limit the ability of unauthorized persons  to view sensitive information, and dispose of  sensitive information as needed.  \u00b7     Do the policies and procedures specify where to place devices to only allow  viewing by authorized personnel?  \u00b7    Where are devices located?  \u00b7    Where does work on ePHI occur?  \u00b7     Are some devices  stationary?  \u00b7    Are some devices mobile  and leave the physical facility?  \u00b7     Is viewing by unauthorized individuals restricted or limited on these devices?  \u00b7     Do changes need to be made in the space  configuration?  \u00b7     Do workforce members understand the security requirements for the data  they use in their day-to-day jobs?  \u00b7    Are any computing  components (e.g., servers, workstations. medical devices) kept in locations that put the  confidentiality, integrity, and availability of ePHI at risk?",
+        "chunkLabel": "164.310(b)",
+        "chunkNum": 7,
+        "chunkId": 41015,
+        "chunkOrig": 0,
+        "implNodes": [
+            4053
+        ]
+    },
+    "41114": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Identify All Methods of Physical  Access to Workstations and Devices**  \u00b7     Document the different ways that users access workstations and  other devices that  create, store, process, or transmit ePHI. Be sure to  consider the multitude of computing devices (e.g., medical equipment, IoT  devices, tablets, smart phones).  \u00b7    Consider any mobile devices  that leave the physical facility as well as remote workers who access devices that create, store,  process, or transmit ePHI.  \u00b7    Is there an inventory of all current device locations?  \u00b7    Are any devices located in public areas?  \u00b7     Are laptops or other computing devices used as workstations to create, access, store, process, or transmit  ePHI? \n 2.   **Analyze the Risks Associated with Each Type of Access**[99](#_bookmark84)  \u00b7     Determine which type of access  identified in Key Activity 1 poses the greatest threat to the  security of ePHI.  \u00b7    Do any devices leave  the facility?  \u00b7     Are any devices  housed in areas  that are more vulnerable  to unauthorized use, theft, or viewing of the data they contain?  \u00b7    What are the options  for modifying the current access configuration to protect ePHI?",
+        "chunkLabel": "164.310(c)",
+        "chunkNum": 2,
+        "chunkId": 41114,
+        "chunkOrig": 0,
+        "implNodes": [
+            4054
+        ]
+    },
+    "41115": {
+        "chunkContent": "3. **Identify and Implement  Physical Safeguards for Workstations and Devices**  \u00b7     Implement physical safeguards and other security measures to minimize the  possibility of inappropriate access to ePHI through  computing devices.  \u00b7     If there are impediments to physically securing devices and/or the facilities where  devices are located, additional safeguards should be considered, such as:  o  Limiting device  capabilities to access  ePHI  o    Limiting user permissions to access ePHI  o    Device encryption  o    Stringent access controls (e.g., multi-factor  authentication [MFA])  o    Screen lock  \u00b7     Are physical safeguards implemented for all devices that access ePHI to restrict access to  authorized users?  \u00b7     Are devices and other tools used in the provisioning of treatment,  payment, and operations protected from unauthorized access, viewing, modification, and/or theft  within mobile healthcare environments?  \u00b7     What safeguards are in place,(e.g., locked doors, screen barriers, cameras, guards)?[100](#_bookmark85)  \u00b7     Are additional physical safeguards needed to protect  devices with ePHI?  \u00b7    Do any devices need to be relocated to enhance physical security?",
+        "chunkLabel": "164.310(c)",
+        "chunkNum": 4,
+        "chunkId": 41115,
+        "chunkOrig": 0,
+        "implNodes": [
+            4054
+        ]
+    },
+    "41116": {
+        "chunkContent": "**Key Activities**  **Description**                                               **Sample Questions**                                         \n ------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                     o  Device  management (e.g., mobile device management  [MDM], endpoint detection and response [EDR])  o  Workforce education and training related  to mobile and remote computing risks to ePHI  \u00b7     Are safeguards such  as anti-theft devices, physical privacy  screens, or other procedures used to help prevent unauthorized audio and  video recording?  \u00b7    Have workforce members been trained on security?[101](#_bookmark86)  \u00b7     Are some devices not owned by the organization? Do these ownership considerations preclude the use of any  physical security controls on the device?  \u00b7     Do the policies and procedures specify the use of additional security measures to protect devices with ePHI, such as using privacy screens,  enabling password-  protected screen savers, or logging off the device?",
+        "chunkLabel": "164.310(c)",
+        "chunkNum": 7,
+        "chunkId": 41116,
+        "chunkOrig": 0,
+        "implNodes": [
+            4054
+        ]
+    },
+    "40014": {
+        "chunkContent": "## Technical Safeguards\n\n### **Access Control (\u00a7 164.312(a))**\n\n**HIPAA Standard:** Implement technical policies and procedures for electronic information systems that maintain electronic protected health information to allow access only to those persons or software programs that have been granted access rights as specified in \u00a7 164.308(a)(4).\n\n**Table 21. Key activities, descriptions, and sample questions for the Access Control standard**",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 1,
+        "chunkId": 40014,
+        "chunkOrig": 1,
+        "implNodes": [
+            4059
+        ]
+    },
+    "41215": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Analyze Workloads and  Operations to Identify the Access Needs of  All Users**[103](#_bookmark90)  \u00b7    Identify an approach[104](#_bookmark91) for access control.  \u00b7     Consider all applications and systems containing ePHI that should  only be available to authorized users, processes, and services.  \u00b7     Integrate these activities into the access  granting and management  process.[105](#_bookmark92)  \u00b7     Have all applications and systems with ePHI been identified?  \u00b7     What user roles  are defined for those applications and systems?  \u00b7     Is access to systems that  contain ePHI only  granted to authorized  processes and services?  \u00b7     Where is the ePHI supporting those applications and systems currently housed (e.g., stand-alone computer, network storage, database)?  \u00b7     Are data and/or  systems being accessed remotely?  \u00b7    Have access  decisions been based  on determinations from  \u00a7 164.308(a)(4) [Information Access   Management](#_bookmark31)?",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 2,
+        "chunkId": 41215,
+        "chunkOrig": 0,
+        "implNodes": [
+            4059
+        ]
+    },
+    "41216": {
+        "chunkContent": "2.   **Identify Technical Access Control Capabilities**       \u00b7     Determine the access  control capabilities of all systems with ePHI.  \u00b7     Determine whether network infrastructure can limit access to systems with  ePHI (e.g., network segmentation).  \u00b7    Implement technical access controls to limit access  to ePHI to only that which  has been granted in accordance with the regulated entity\u2019s information access  management policies and procedures (see 45 CFR [164.308(a)(4)](#_bookmark31)).  \u00b7     How are the  systems accessed for viewing, modifying, or creating data?  \u00b7     Can identified technical access controls limit access to ePHI to only what is authorized in  accordance with the regulated entity\u2019s information access management policies and procedures (see 45 CFR [164.308(a)(4)](#_bookmark31))?",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 4,
+        "chunkId": 41216,
+        "chunkOrig": 0,
+        "implNodes": [
+            4059
+        ]
+    },
+    "41217": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 3.   **Ensure That All System  Users Have Been Assigned a Unique Identifier**[106](#_bookmark93)     **Implementation Specification  (Required)**  \u00b7     *Assign a unique name and/or number  for identifying and tracking user identity.*  \u00b7    Ensure that system activity can be traced  to a specific user.  \u00b7     Ensure that the necessary data  is available in the system logs to support audit and other  related business functions.[107](#_bookmark94)  \u00b7     How should the identifier be established (e.g.,  length and content)?  \u00b7     Should the identifier be self-selected, organizationally selected, or randomly  generated?  \u00b7    Are logs associated with  access events created?  \u00b7    Are these access logs  regularly reviewed?  \u00b7    Can the unique user  identifier be used  to track user  access to ePHI? \n 4.   **Develop Access  Control Policy**[108](#_bookmark95)  **and Procedures**  \u00b7     Establish a formal  policy for access  control that will  guide the development of procedures.[109](#_bookmark96)  \u00b7    Specify requirements for access control that are both feasible and cost-effective.[110](#_bookmark97)  \u00b7     Have rules of behavior been  established and communicated  to system users?  \u00b7    How will rules of behavior be enforced?",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 7,
+        "chunkId": 41217,
+        "chunkOrig": 0,
+        "implNodes": [
+            4059
+        ]
+    },
+    "41218": {
+        "chunkContent": "5. **Implement Access  Control Procedures Using Selected Hardware and Software**  \u00b7     Implement the policy  and procedures using  existing or additional  hardware or software solutions.  \u00b7    Who will manage the access control  procedures?  \u00b7     Are current users  trained in access  control management?[111](#_bookmark98)  \u00b7     Will user training be needed to implement access  control procedures?  \u00b7    Do the medical devices  in use by the organization support user authentication? Are there processes in place to  manage this authentication?",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 11,
+        "chunkId": 41218,
+        "chunkOrig": 0,
+        "implNodes": [
+            4059
+        ]
+    },
+    "41219": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 6.   **Review and Update Access  for Users and Processes**    \u00b7     Enforce the policy  and procedures as a matter  of ongoing operations.[112](#_bookmark99)  \u00b7     Determine whether any changes are needed for access  control mechanisms.  \u00b7     Ensure that the modification of technical controls that affect a user\u2019s access  to ePHI continue to limit access  to ePHI to that  which has been granted in accordance with the regulated entity\u2019s information  access management policies and procedures (see 45 CFR [164.308(a)(4)](#_bookmark31)).  \u00b7     Establish procedures for updating access  when users require the  following:[113](#_bookmark100)  o    Initial access  o    Increased access  o    Access to different systems or applications than  those they currently have  \u00b7     Have new workforce members/users been given  proper instructions for protecting data and systems?[114](#_bookmark101)  \u00b7     What are the  procedures for new workforce member/user access to data and systems?[115](#_bookmark102)  \u00b7     Are there procedures for reviewing and,  if appropriate, modifying  access authorizations for existing users, services, and processes?[116](#_bookmark103)  \u00b7     Do users and processes have the appropriate set of permissions to  ePHI to which they were granted access and  to the appropriate systems that create, store, process, or  transmit ePHI?  \u00b7     Has the regulated entity considered the use of automation  for reviewing the access needs of users and processes?",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 16,
+        "chunkId": 41219,
+        "chunkOrig": 0,
+        "implNodes": [
+            4059
+        ]
+    },
+    "41220": {
+        "chunkContent": "7.   **Establish an Emergency Access Procedure**  **Implementation Specification  (Required)**  \u00b7     *Establish (and implement as needed) procedures for obtaining necessary electronic protected health  information during an emergency.*  \u00b7     Identify a method  for supporting continuity of operations  should the normal access procedures be disabled or unavailable due to system  problems.  \u00b7     Are there policies and procedures in place to provide  appropriate access to ePHI in emergency situations?  \u00b7     When should the emergency access  procedure be activated?  \u00b7    Who is authorized to make the decision?[117](#_bookmark104)  \u00b7    Who has assigned roles  in the process?[118](#_bookmark105)  \u00b7     Will systems automatically default to settings and functionalities  that will enable the emergency access procedure or will the  mode be activated by the system  administrator or other  authorized individual? \n 8.   **Automatic Logoff  and Encryption and  Decryption**     \u00b7     Consider whether the addressable implementation specifications of this  standard are reasonable and  appropriate:  \u00b7     Are automatic logoff  features available for any of the  regulated entity\u2019s operating systems or other major  applications?",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 22,
+        "chunkId": 41220,
+        "chunkOrig": 0,
+        "implNodes": [
+            4059
+        ]
+    },
+    "41221": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n **Implementation Specifications  (Both Addressable)**         o  *Implement electronic procedures that terminate an electronic session after a predetermined period of inactivity.*  o  *Implement a mechanism to encrypt and decrypt  ePHI.*  \u00b7     If applications have  been created or developed in-house, is it reasonable and appropriate to modify them to feature an  automatic logoff capability?  \u00b7     What period of inactivity prior to automatic logoff is reasonable and appropriate for the regulated entity?  \u00b7     What encryption capabilities are available for the  regulated entity\u2019s ePHI?  \u00b7     Is encryption appropriate for storing and maintaining ePHI (i.e., at rest)?  \u00b7     Based on the risk assessment, is encryption needed to effectively protect ePHI at rest from unauthorized access?  \u00b7     Is email encryption necessary for the organization to protect ePHI?  \u00b7    Are automated confidentiality statements needed for email  leaving the organization? \n 9.   **Terminate Access  if it is No  Longer Required**[119](#_bookmark106)  \u00b7     Ensure that access  to ePHI is terminated if the access  is no longer authorized.  \u00b7     Consider implementing a user recertification process to ensure  that least privilege is enforced.  \u00b7     Are rules being enforced to remove access by workforce members who no  longer have a need to know because they have changed  assignments or have  stopped working for the  organization?  \u00b7    Does the organization revisit user access requirements regularly to ensure least  privilege?",
+        "chunkLabel": "164.312(a)",
+        "chunkNum": 29,
+        "chunkId": 41221,
+        "chunkOrig": 0,
+        "implNodes": [
+            4059
+        ]
+    },
+    "40015": {
+        "chunkContent": "## Technical Safeguards\n\n### Audit Controls (\u00a7 164.312(b))\n\n**HIPAA Standard:** Implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use electronic protected health information.\n\n**Table 22. Key activities, descriptions, and sample questions for the Audit Controls standard**",
+        "chunkLabel": "164.312(b)",
+        "chunkNum": 1,
+        "chunkId": 40015,
+        "chunkOrig": 1,
+        "implNodes": [
+            4065
+        ]
+    },
+    "41316": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Determine the Activities That Will Be Tracked or Audited**  \u00b7    Determine the appropriate  scope of audit controls that will be necessary in information systems that  contain or use ePHI based  on the regulated entity\u2019s risk assessment and other organizational  factors.[120](#_bookmark108)  \u00b7     Determine what activities need to be captured using  the results of the risk assessment and risk management processes.  \u00b7    Where is ePHI at risk in the organization?[121](#_bookmark109)  \u00b7     What systems, applications, or processes make ePHI vulnerable to unauthorized or inappropriate tampering, uses, or disclosures?[122](#_bookmark110)  \u00b7    What activities will be  audited (e.g., creating ePHI, accessing ePHI, modifying ePHI, transmitting ePHI,  and/or deleting files or records that contain ePHI)?  \u00b7     What should the audit record include (e.g., user responsible for the activity; event type, date,  or time)?  \u00b7    Are audit records generated for all systems/devices that create, store, process, or transmit ePHI? \n 2.   **Select the Tools That  Will Be Deployed for  Auditing and System Activity Reviews**  \u00b7     Evaluate existing system  capabilities and determine whether any changes or  upgrades are necessary.  \u00b7    What tools  are in place?  \u00b7     What are the most appropriate monitoring tools for the  organization (e.g., third-party, freeware, or operating system-provided)?  \u00b7    Are changes/upgrades to information systems reasonable  and appropriate?",
+        "chunkLabel": "164.312(b)",
+        "chunkNum": 2,
+        "chunkId": 41316,
+        "chunkOrig": 0,
+        "implNodes": [
+            4065
+        ]
+    },
+    "41317": {
+        "chunkContent": "3.   **Develop and Deploy the  Information System Activity Review/Audit Policy**  \u00b7     Document and communicate to the workforce the organization\u2019s decisions on audits and reviews.  \u00b7     Who is responsible for the overall  audit process and results?  \u00b7    How often will audits  take place?  \u00b7    How often will audit  results be analyzed?  \u00b7     What is the organization\u2019s sanction policy for employee violations?[123](#_bookmark111)  \u00b7    Where will  audit information reside  (e.g., separate server)?",
+        "chunkLabel": "164.312(b)",
+        "chunkNum": 4,
+        "chunkId": 41317,
+        "chunkOrig": 0,
+        "implNodes": [
+            4065
+        ]
+    },
+    "41318": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 4.   **Develop Appropriate Standard Operating Procedures**[124](#_bookmark112)  \u00b7     Determine the types  of audit trail  data and monitoring procedures that will be  needed to derive exception reports.  \u00b7     Determine the frequency of audit log reviews based  on the risk assessment and  risk management processes.  \u00b7    How will exception reports or logs be reviewed?  \u00b7     Has the organization considered the use of automation to assist in the monitoring and review of system activity?  \u00b7     Are the organization\u2019s monitoring system activity and logs reviewed  frequently enough to sufficiently protect ePHI?  \u00b7    Where will  monitoring reports be filed and maintained?  \u00b7     Is there a formal process in place to address system misuse, abuse, and fraudulent  activity?[125](#_bookmark113)  \u00b7    How will managers and employees be notified, when appropriate, regarding suspect  activity? \n 5.   **Implement the Audit/System  Activity Review Process**[126](#_bookmark114)  \u00b7    Activate the necessary audit  system.  \u00b7    Begin logging and auditing procedures.  \u00b7     What mechanisms (e.g.,  metrics) will be implemented to assess the effectiveness of the audit  process?  \u00b7    What is the plan  to revise the audit process  when needed?",
+        "chunkLabel": "164.312(b)",
+        "chunkNum": 7,
+        "chunkId": 41318,
+        "chunkOrig": 0,
+        "implNodes": [
+            4065
+        ]
+    },
+    "40016": {
+        "chunkContent": "## Technical Safeguards\n\n### Integrity (\u00a7 164.312(c))\n\n**HIPAA Standard:** Implement policies and procedures to protect electronic protected health information from improper alteration or destruction.\n\n**Table 23. Key activities, descriptions, and sample questions for the Integrity standard**",
+        "chunkLabel": "164.312(c)",
+        "chunkNum": 1,
+        "chunkId": 40016,
+        "chunkOrig": 1,
+        "implNodes": [
+            4066,
+            4067
+        ]
+    },
+    "41417": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Identify All  Users Who Have Been Authorized to Access ePHI**[127](#_bookmark115)  \u00b7     Identify all approved users with the ability to alter or destroy ePHI, if reasonable and  appropriate.  \u00b7     Address this Key Activity in conjunction with the identification of unauthorized sources in Key Activity 2.  \u00b7    How are users authorized to access the information?[128](#_bookmark116)  \u00b7    Is there a sound  basis for why they need  the access?[129](#_bookmark117)  \u00b7    Have they  been trained on how to use the information?[130](#_bookmark118)  \u00b7    Is there an audit  trail established for all accesses to the information?[131](#_bookmark119) \n 2.   **Identify Any Possible  Unauthorized Sources That  May Be Able to Intercept the Information and Modify It**  \u00b7     Identify scenarios that may result in modification to the ePHI by unauthorized sources (e.g., hackers, ransomware, insider threats, business  competitors, user errors).[132](#_bookmark120)  \u00b7    Conduct this  activity as part of a risk analysis.[133](#_bookmark121)  \u00b7     Consider how the organization will  detect unauthorized  modification to ePHI.  \u00b7     What are likely  sources that could  jeopardize information integrity?[134](#_bookmark122)  \u00b7     What can be done to protect the integrity of the information when it is residing in a system  (at rest)?  \u00b7     What procedures and policies can be established to decrease or prevent alteration of the information during transmission?[135](#_bookmark123)  \u00b7    What options  exist to detect  the unauthorized  modification of ePHI?",
+        "chunkLabel": "164.312(c)",
+        "chunkNum": 2,
+        "chunkId": 41417,
+        "chunkOrig": 0,
+        "implNodes": [
+            4066,
+            4067
+        ]
+    },
+    "41418": {
+        "chunkContent": "3.   **Develop the  Integrity Policy and Requirements**       \u00b7     Establish a formal  written set of integrity requirements based on the results of  the analysis completed in Key Activities 1 and 2.  \u00b7     Have the requirements been discussed and agreed to by identified key personnel involved in the processes that are affected?  \u00b7    Have the requirements been  documented?  \u00b7    Has a written policy  been developed and  communicated to personnel?",
+        "chunkLabel": "164.312(c)",
+        "chunkNum": 4,
+        "chunkId": 41418,
+        "chunkOrig": 0,
+        "implNodes": [
+            4066,
+            4067
+        ]
+    },
+    "41419": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 4.   **Implement Procedures to  Address These Requirements**  \u00b7     Identify and implement methods that will  be used to protect ePHI from unauthorized  modification.  \u00b7     Identify and implement tools and techniques to be developed or procured that  support the assurance of integrity.  \u00b7    Are current audit, logging, and access control techniques sufficient to address the integrity of ePHI?  \u00b7    If not, what additional techniques (e.g., quality control  process, transaction and output reconstruction) can be utilized to  check the integrity of ePHI?  \u00b7     Are technical solutions in place to prevent and detect the malicious alteration or destruction  of ePHI (e.g., anti- malware, anti-ransomware, file integrity monitoring solutions)?  \u00b7    Can the additional training of users decrease instances attributable to human errors?",
+        "chunkLabel": "164.312(c)",
+        "chunkNum": 7,
+        "chunkId": 41419,
+        "chunkOrig": 0,
+        "implNodes": [
+            4066,
+            4067
+        ]
+    },
+    "41420": {
+        "chunkContent": "5.   **Implement a Mechanism to Authenticate ePHI**  **Implementation Specification  (Addressable)**  \u00b7     *Implement electronic mechanisms to corroborate that ePHI has not  been altered or destroyed in an unauthorized manner.*  \u00b7     Consider possible mechanisms for integrity verification, such as:  o    Error-correcting memory  o    Digital signatures  \u00b7     Are the uses  of both electronic and non-electronic  mechanisms necessary for the protection of ePHI?  \u00b7    Are appropriate electronic authentication tools available?  \u00b7     Are available electronic authentication tools interoperable with other applications  and system components?  \u00b7    If ePHI is detected as altered by unauthorized users  or improperly altered by authorized users,  is a process in place to  respond?  \u00b7    Is this response process tied to organizational incident management processes? \n 6.   **Establish a Monitoring Process  to Assess How the Implemented Process is Working**  \u00b7     Review existing processes to determine whether objectives are being addressed.[136](#_bookmark124)  \u00b7     Continually reassess integrity processes as technology and operational environments change to determine whether they  need to be revised.[137](#_bookmark125)  \u00b7     Are there reported instances of information integrity problems? Have they decreased since integrity procedures were implemented?[138](#_bookmark126)  \u00b7    Does the process, as implemented, provide a higher level of assurance that information  integrity is being maintained?",
+        "chunkLabel": "164.312(c)",
+        "chunkNum": 11,
+        "chunkId": 41420,
+        "chunkOrig": 0,
+        "implNodes": [
+            4066,
+            4067
+        ]
+    },
+    "40017": {
+        "chunkContent": "## Technical Safeguards\n\n### Person or Entity Authentication (\u00a7 164.312(d))\n\n**HIPAA Standard:** Implement procedures to verify that a person or entity seeking access to electronic protected health information is the one claimed.\n\n**Table 24. Key activities, descriptions, and sample questions for the Person or Entity Authentication standard**",
+        "chunkLabel": "164.312(d)",
+        "chunkNum": 1,
+        "chunkId": 40017,
+        "chunkOrig": 1,
+        "implNodes": [
+            4068
+        ]
+    },
+    "41518": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Determine Authentication Applicability to Current Systems/Applications**  \u00b7     Identify the methods  available for authentication. Under the HIPAA Security Rule, authentication is the  corroboration that a person is the one  claimed (45 CFR \u00a7  164.304).  \u00b7     Identify points of electronic access  that require or should  require authentication. Ensure  that the regulated entity\u2019s risk analysis properly assesses risks for such access  points (e.g., risks of unauthorized access from within the enterprise  could be different than those of remote unauthorized access).  \u00b7     Authentication requires establishing the validity of a transmission source  and/or verifying an individual\u2019s claim that they have been authorized  for specific access privileges to information and information systems.  \u00b7    What authentication methods are available?  \u00b7     What are the  advantages and disadvantages of each method?  \u00b7     Can risks of unauthorized access  be sufficiently reduced for each point of electronic  access with available authentication methods?  \u00b7     What will it cost to implement the  available methods in the environment?  \u00b7     Are there trained  staff who can maintain the system or should outsourced support be  considered?  \u00b7     Are passwords being  used? If so, are they  unique to the individual?  \u00b7    Is MFA being used?  If so, how  and where is it  implemented?",
+        "chunkLabel": "164.312(d)",
+        "chunkNum": 2,
+        "chunkId": 41518,
+        "chunkOrig": 0,
+        "implNodes": [
+            4068
+        ]
+    },
+    "41519": {
+        "chunkContent": "2.   **Evaluate Available  Authentication Options**           \u00b7     Weigh the relative advantages and disadvantages of commonly used authentication approaches.  \u00b7     There are three  commonly used authentication approaches available:  1.    Something a person knows,  such as a password  2.    Something a person has or is in possession of, such as a token (e.g., smart card, hardware  token)  3.    Some type  of biometric identification that a person provides, such as a fingerprint  \u00b7     MFA utilizes two or more  authentication approaches to enforce stronger authentication.  \u00b7    Consider implementing MFA solutions[140](#_bookmark129) when the risk to ePHI is sufficiently high.  \u00b7     What are the strengths and weaknesses of each available option?  \u00b7     Which can be best supported with assigned resources (e.g., budget/staffing)?  \u00b7     What level of authentication is appropriate for each access to ePHI based on the assessment  of risk?  \u00b7     Has the organization identified all instances of access to ePHI  (including by services, vendors, or application programming interfaces  [APIs]) and considered appropriate authentication requirements based on the  risk assessment?",
+        "chunkLabel": "164.312(d)",
+        "chunkNum": 4,
+        "chunkId": 41519,
+        "chunkOrig": 0,
+        "implNodes": [
+            4068
+        ]
+    },
+    "41520": {
+        "chunkContent": "----  ------------------------------------------------------------ \n       ![img](file:///C:/Users/seedl/AppData/Local/Temp/msohtmlclip1/01/clip_image001.gif) \n\n\n\n\n\n139 See Sec. [5.3.1,](#_bookmark89) *HIPAA Standard: Access Control*; Sec. [5.3.2,](#_bookmark107) *HIPAA Standard: Audit Controls*; and [[SP 800-63B]](#_bookmark6), *Digital Identity Guidelines: Authentication and Lifecycle Management*.\n\n140 Some MFA implementations may offer greater protection than others. Consider the pros and cons of each MFA option in light of the risk to ePHI.",
+        "chunkLabel": "164.312(d)",
+        "chunkNum": 7,
+        "chunkId": 41520,
+        "chunkOrig": 0,
+        "implNodes": [
+            4068
+        ]
+    },
+    "41521": {
+        "chunkContent": "**Key Activities**                                     **Description**                                               **Sample Questions**                                         \n -----------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n                                                                                                                      \u00b7     Has the organization considered MFA for  access to ePHI that poses high risk (e.g., remote  access, access to privileged functions)?  \u00b7     Has the organization researched available MFA options  and made a selection based on risk to ePHI?  \u00b7     Is outside vendor  support required to implement the process?  \u00b7     Are there password-less authentication options (e.g., biometric authentication) available that can sufficiently  address the risk to ePHI?",
+        "chunkLabel": "164.312(d)",
+        "chunkNum": 11,
+        "chunkId": 41521,
+        "chunkOrig": 0,
+        "implNodes": [
+            4068
+        ]
+    },
+    "41522": {
+        "chunkContent": "3.   **Select and Implement  Authentication Options**  \u00b7     Consider the results of the analysis  conducted under Key Activity 2 and select  appropriate authentication methods based on the results of the risk  assessment and risk management processes.  \u00b7     Implement the methods selected in organizational operations and  activities.  \u00b7    Has the organization\u2019s selection of authentication methods been made based on the results  of the risk assessment?  \u00b7    If passwords are being  used as an authentication element, are they of sufficient length and strength to protect ePHI? Is this enforced by technical  policies?  \u00b7    Has necessary user and support staff  training[141](#_bookmark130) been completed?  \u00b7     Have a formal  authentication policy and  procedures been established  and communicated?  \u00b7     Has necessary testing been completed to ensure that  the authentication system is working as prescribed?  \u00b7     Do the procedures include ongoing system  maintenance and updates?  \u00b7    Is the process implemented in such a way that  it does not compromise the authentication  information (e.g., password file encryption)?",
+        "chunkLabel": "164.312(d)",
+        "chunkNum": 16,
+        "chunkId": 41522,
+        "chunkOrig": 0,
+        "implNodes": [
+            4068
+        ]
+    },
+    "40018": {
+        "chunkContent": "## Technical Safeguards\n\n### Transmission Security (\u00a7 164.312(e)(1))\n\n**HIPAA Standard:** Implement technical security measures to guard against unauthorized access to electronic protected health information that is being transmitted over an electronic communications network.\n\n**Table 25. Key activities, descriptions, and sample questions for the Transmission Security standard**",
+        "chunkLabel": "164.312(e)(1)",
+        "chunkNum": 1,
+        "chunkId": 40018,
+        "chunkOrig": 1,
+        "implNodes": [
+            4069
+        ]
+    },
+    "41619": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Identify Any Possible  Unauthorized Sources That  May Be Able to Intercept and/or Modify the Information**  \u00b7     Identify all pathways by which ePHI  will be transmitted into, within, and outside of  the organization.  \u00b7     Identify scenarios (e.g.,  telehealth, claims processing) that may result in access to or modification of the ePHI by  unauthorized sources during transmission (e.g., hackers, disgruntled  employees, business competitors).[142](#_bookmark132)  \u00b7     Identify scenarios and pathways that  may put ePHI  at a high level of risk.  \u00b7     Have all pathways by which ePHI  will be transmitted (e.g., file transfers, email, web portals, mobile apps,  communications with servers or databases containing ePHI, online tracking)  been identified?  \u00b7     Has a risk assessment been used to determine transmission pathways and scenarios that  may pose high risk to ePHI?  \u00b7     What measures exist  to protect ePHI  in transmission?  \u00b7     Have appropriate protection mechanisms been identified for all scenarios and  pathways by which ePHI is transmitted?  \u00b7     Is there an auditing process  in place to verify that  ePHI has been protected  against unauthorized access during transmission?[143](#_bookmark133)  \u00b7    Are there trained workforce members to monitor transmissions?",
+        "chunkLabel": "164.312(e)(1)",
+        "chunkNum": 2,
+        "chunkId": 41619,
+        "chunkOrig": 0,
+        "implNodes": [
+            4069
+        ]
+    },
+    "41620": {
+        "chunkContent": "2.   **Develop and Implement  Transmission Security Policy  and Procedures**  \u00b7     Establish a formal  written set of requirements for transmitting ePHI.  \u00b7     Identify methods of transmission that  will be used to  safeguard ePHI.  \u00b7     Identify tools and techniques that  will be used  to support the transmission  security policy.  \u00b7    Implement procedures for transmitting ePHI  using hardware and/or software, if needed.  \u00b7     Have the requirements been discussed and agreed to by  identified key personnel involved in transmitting ePHI?  \u00b7     Has a written  policy been developed and communicated to system users?",
+        "chunkLabel": "164.312(e)(1)",
+        "chunkNum": 4,
+        "chunkId": 41620,
+        "chunkOrig": 0,
+        "implNodes": [
+            4069
+        ]
+    },
+    "41621": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 3.   **Implement Integrity Controls**  **Implementation Specification  (Addressable)**  \u00b7     *Implement security measures to ensure  that electronically  transmitted ePHI is not improperly modified without detection until disposed  of.*  \u00b7     What security measures are currently used to protect ePHI during transmission?  \u00b7     What measures are  planned to protect  ePHI in transmission?  \u00b7    Is there assurance that  information is not altered during transmission?",
+        "chunkLabel": "164.312(e)(1)",
+        "chunkNum": 7,
+        "chunkId": 41621,
+        "chunkOrig": 0,
+        "implNodes": [
+            4069
+        ]
+    },
+    "41622": {
+        "chunkContent": "4.   **Implement Encryption**  **Implementation Specification  (Addressable)**  \u00b7     *Implement a mechanism to encrypt ePHI whenever  appropriate.*  \u00b7    Is encryption reasonable and appropriate to protect ePHI in transmission?  \u00b7    Based on the risk  assessment, is encryption needed to  effectively protect the information from unauthorized  access during transmission?  \u00b7     Has the organization considered the use of email encryption and automated confidentiality statements when emailing outside of the organization?  \u00b7     Is encryption feasible and cost-effective in this  environment?  \u00b7     What encryption algorithms and mechanisms are available?  \u00b7    Are available encryption algorithms and mechanisms of sufficient strength to protect electronically transmitted  ePHI?  \u00b7     Is electronic transmission hardware/software configured  so that the strength of encryption used in transmitting ePHI cannot be  weakened?  \u00b7     Have all applications used on devices that support the provisioning of health services been assessed to verify that strong transmission security is  implemented?  \u00b7     Does the covered  entity have the appropriate staff  to maintain a process for encrypting ePHI during transmission?  \u00b7    Are workforce members skilled  in the use of encryption?",
+        "chunkLabel": "164.312(e)(1)",
+        "chunkNum": 11,
+        "chunkId": 41622,
+        "chunkOrig": 0,
+        "implNodes": [
+            4069
+        ]
+    },
+    "40019": {
+        "chunkContent": "## Organizational Requirements\n\n### **Business Associate Contracts or Other Arrangements (\u00a7 164.314(a))**\n\n**HIPAA Standard:** (i) The contract or other arrangement between the covered entity and its business associate required by \u00a7 164.308(b)(3) must meet the requirements of paragraph (a)(2)(i), (a)(2)(ii), or (a)(2)(iii) of this section, as applicable. (ii) A covered entity is in compliance with paragraph (a)(1) of this section if it has another arrangement in place that meets the requirements of \u00a7 164.504(e)(3). (iii) The requirements of paragraphs (a)(2)(i) and (a)(2)(ii) of this section apply to the contract or other arrangement between a business associate and a subcontractor required by \u00a7 164.308(b)(4) in the same manner as such requirements apply to contracts or other arrangements between a covered entity and business associate.\n\nCovered entities need to be cognizant of differentiating between best practices versus what the Security Rule requires. Vendor management and supply chain risks are important topics due to the potential they have to introduce new threats and risks to organizations. To the extent that such vendors and service providers are business associates, HIPAA treats them the same as covered entities with respect to Security Rule compliance. Covered entities and business associates are required to obtain written satisfactory assurances from business associates that PHI will be protected. Covered entities and business associates are permitted to require more of their business associates and even include more stringent cybersecurity requirements in a BAA. These requirements would need to be agreed upon by both the covered entity and the business associate.\n\n**Table 26. Key activities, descriptions, and sample questions for the Business Associate Contracts or Other Arrangements standard**",
+        "chunkLabel": "164.314(a)",
+        "chunkNum": 1,
+        "chunkId": 40019,
+        "chunkOrig": 1,
+        "implNodes": [
+            4071
+        ]
+    },
+    "41720": {
+        "chunkContent": "**Table 26. Key activities, descriptions, and sample questions for the Business Associate Contracts or Other Arrangements standard**\n\n **Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Contract Must Provide  That Business Associates Will  Comply With the Applicable Requirements of the Security Rule**[144](#_bookmark135)     **Implementation Specification  (Required)**  \u00b7     *Contracts between covered  entities and business associates must provide that business associates will  implement administrative, physical, and technical safeguards that  reasonably and appropriately protect the  confidentiality, integrity, and availability of the ePHI that the business  associate creates, receives, maintains, or transmits on behalf of the covered  entity.*  \u00b7    Readers may  find useful resources in [Appendix F,](#_bookmark0) including OCR BAA guidance  and templates that include applicable language.  \u00b7     Does the written agreement between the covered entity and the  business associate address the applicable functions related to creating,  receiving, maintaining, and transmitting ePHI that  the business associate is to perform on behalf of the covered  entity?",
+        "chunkLabel": "164.314(a)",
+        "chunkNum": 2,
+        "chunkId": 41720,
+        "chunkOrig": 0,
+        "implNodes": [
+            4071
+        ]
+    },
+    "41721": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 2.   **Contract Must Provide  That the Business Associates Enter Into Contracts With Subcontractors to Ensure the Protection of ePHI**  **Implementation Specification (Required)**  \u00b7     *In accordance with \u00a7  164.308(b)(2), ensure that any subcontractors that create, receive, maintain, or transmit ePHI on behalf of the business  associate agree to comply with the applicable requirements of this subpart by  entering into a contract or other arrangement that complies with this  section.*  \u00b7     Has the business associate identified all of its subcontractors that  will create, receive, maintain, or  transmit ePHI?  \u00b7     Has the business associate ensured that  contracts in accordance with  \u00a7 164.314 are in place with its subcontractors identified in the previous  question?",
+        "chunkLabel": "164.314(a)",
+        "chunkNum": 4,
+        "chunkId": 41721,
+        "chunkOrig": 0,
+        "implNodes": [
+            4071
+        ]
+    },
+    "41722": {
+        "chunkContent": "3.   **Contract Must Provide  That Business Associates Will  Report Security Incidents**     **Implementation Specification  (Required)**  \u00b7    *Report to the covered entity  any security incident of which it becomes aware, including breaches of unsecured PHI as required by \u00a7 164.410.*  \u00b7    Maintain clear  lines of communication between covered  entities and business associates regarding the protection  of ePHI as per the BAA or contract.  \u00b7    Establish a reporting mechanism and a process for the business  associate to use in the event of a security  incident or breach.  \u00b7     Is there a procedure in place for reporting security incidents, including breaches of unsecured PHI by business associates?  \u00b7    Have key business associate staff been identified as points of  contact in the event of a security incident or breach?  \u00b7     Does the contract include clear time frames and responsibilities regarding the investigation and  reporting of security incidents and breaches? \n 4.   **Other Arrangements**     **Implementation Specification  (Required)**  \u00b7    *The covered entity  complies with paragraph (a)(1) of this section if it has another arrangement in place that  meets the requirements of \u00a7 164.504(e)(3).*  \u00b7     Has the covered entity made a good faith attempt to obtain satisfactory assurances that the security standards required by this section are  met?  \u00b7    Are attempts to obtain  satisfactory assurances and the reasons that assurances cannot be obtained documented?",
+        "chunkLabel": "164.314(a)",
+        "chunkNum": 7,
+        "chunkId": 41722,
+        "chunkOrig": 0,
+        "implNodes": [
+            4071
+        ]
+    },
+    "41723": {
+        "chunkContent": "5.   **Business Associate Contracts With Subcontractors**  **Implementation Specification  (Required)**  \u00b7     *The requirements of  paragraphs (a)(2)(i) and (a)(2)(ii) of this section apply to the contract or  other arrangement between a business associate and a subcontractor in the same manner as such requirements apply  to contracts or other arrangements between a covered  entity and*  *business associate.*  \u00b7     Do business associate contracts or other arrangements between the  business associate and its subcontractors include appropriate language to comply with  paragraphs (a)(2)(i) and (a)(2)(ii) of this section?",
+        "chunkLabel": "164.314(a)",
+        "chunkNum": 11,
+        "chunkId": 41723,
+        "chunkOrig": 0,
+        "implNodes": [
+            4071
+        ]
+    },
+    "40020": {
+        "chunkContent": "## Organizational Requirements\n\n### Requirements for Group Health Plans (\u00a7 164.314(b))\n\n**HIPAA Standard:** Except when the only electronic protected health information disclosed to a plan sponsor is disclosed pursuant to \u00a7 164.504(f)(1)(ii) or (iii), or as authorized under \u00a7 164.508, a group health plan must ensure that its plan documents provide that the plan sponsor will reasonably and appropriately safeguard electronic protected health information created, received, maintained, or transmitted to or by the plan sponsor on behalf of the group health plan.\n\n**Table 27. Key activities, descriptions, and sample questions for the Requirements for Group Health Plans standard**",
+        "chunkLabel": "164.314(b)",
+        "chunkNum": 1,
+        "chunkId": 40020,
+        "chunkOrig": 1,
+        "implNodes": [
+            4076
+        ]
+    },
+    "41821": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Amend Plan Documents of  the Group Health Plan to Address  the Plan Sponsor\u2019s Security of ePHI**  **Implementation Specification (Required)**  \u00b7     *Amend the plan documents  to incorporate provisions to require the plan sponsor to implement  administrative, technical, and physical safeguards that will reasonably and appropriately protect the  confidentiality, integrity, and availability of ePHI that it creates,  receives, maintains, or*  *transmits on behalf of the group  health plan.*  \u00b7     Does the plan  sponsor fall under  the exception described in the standard?  \u00b7     Do the plan documents require  the plan sponsor  to reasonably and appropriately safeguard ePHI? \n 2.   **Amend Plan  Documents of the Group Health Plan to Address  Adequate Separation**     **Implementation Specification  (Required)**  \u00b7     *Amend the  plan documents to incorporate provisions to require the plan sponsor to ensure that the adequate  separation between the group health plan and plan sponsor required by  \u00a7164.504(f)(2)(iii) is supported by reasonable and appropriate security  measures.*  \u00b7     Do plan documents address the obligation to keep ePHI secure with  respect to the plan sponsor\u2019s employees, classes of employees, or other persons who will be given  access to ePHI?",
+        "chunkLabel": "164.314(b)",
+        "chunkNum": 2,
+        "chunkId": 41821,
+        "chunkOrig": 0,
+        "implNodes": [
+            4076
+        ]
+    },
+    "41822": {
+        "chunkContent": "3.   **Amend Plan Documents of  the Group Health Plan to Address  the Security of ePHI Supplied to the Plan Sponsors\u2019 Agents and Subcontractors**     **Implementation Specification  (Required)**  \u00b7     *Amend plan documents to  incorporate provisions to require the plan sponsor  to ensure that  any agent to whom  it provides ePHI agrees to implement reasonable and appropriate security  measures to protect the ePHI.*  \u00b7     Do the plan documents of the group  health plan address the issue of subcontractors and other agents of the plan sponsor  implementing reasonable and appropriate security measures? \n 4.   **Amend Plan  Documents of Group Health Plans to Address the  Reporting of Security Incidents**  **Implementation Specification (Required)**  \u00b7     *Amend plan documents to  incorporate provisions to require the plan sponsor to report any  security incident of which it becomes aware to the group  health plan.*  \u00b7     Is there a procedure in place for security incident reporting?  \u00b7     Are procedures in place for responding to security  incidents?",
+        "chunkLabel": "164.314(b)",
+        "chunkNum": 4,
+        "chunkId": 41822,
+        "chunkOrig": 0,
+        "implNodes": [
+            4076
+        ]
+    },
+    "41823": {
+        "chunkContent": "**Key Activities**  **Description**                                               **Sample Questions** \n ------------------  ------------------------------------------------------------  -------------------- \n                     \u00b7    Establish a specific policy  for security incident reporting.[145](#_bookmark136)  \u00b7    Establish a reporting mechanism and a process for the plan sponsor to use in the event  of a security incident.",
+        "chunkLabel": "164.314(b)",
+        "chunkNum": 7,
+        "chunkId": 41823,
+        "chunkOrig": 0,
+        "implNodes": [
+            4076
+        ]
+    },
+    "40021": {
+        "chunkContent": "## Policies and Procedures and Documentation Requirements\n\n### **Policies and Procedures (\u00a7 164.316(a))**\n\n**HIPAA Standard:** Implement reasonable and appropriate policies and procedures to comply with the standards, implementation specifications, or other requirements of this subpart, taking into account those factors specified in \u00a7 164.306(b)(2)(i), (ii), (iii), and (iv). This standard is not to be construed to permit or excuse an action that violates any other standard, implementation specification, or other requirements of this subpart. A covered entity or business associate may change its policies and procedures at any time, provided that the changes are documented and are implemented in accordance with this subpart.\n\n**Table 28. Key activities, descriptions, and sample questions for the Policies and Procedures standard**",
+        "chunkLabel": "164.316(a)",
+        "chunkNum": 1,
+        "chunkId": 40021,
+        "chunkOrig": 1,
+        "implNodes": [
+            4082
+        ]
+    },
+    "41922": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Create and Deploy Policies and Procedures**            \u00b7     Implement reasonable and appropriate policies and procedures to comply with the standards, implementation specifications, and other requirements of the  HIPAA Security Rule.  \u00b7    Consider the importance of documenting processes and procedures for demonstrating the adequate implementation  of recognized security practices.  \u00b7     Periodically evaluate written  policies and procedures to verify that:[146](#_bookmark138)  o  Policies  and procedures are sufficient to address the  standards, implementation specifications, and other requirements of the HIPAA Security Rule.  o  Policies  and procedures accurately reflect the actual  activities and practices exhibited by the regulated entity, its staff, its  systems, and its  business associates.  \u00b7     Are reasonable and appropriate policies and procedures to comply with  each of the standards, applicable implementation specifications, and other  requirements of the HIPAA  Security Rule in place?  \u00b7     Are policies and procedures reasonable and appropriate given:  o  The size,  complexity, and capabilities of the regulated  entity?  o  The regulated entity\u2019s technical infrastructure, hardware, and software  security capabilities?  o    The costs for security measures?  o    The probability and  criticality of potential risks to ePHI?",
+        "chunkLabel": "164.316(a)",
+        "chunkNum": 2,
+        "chunkId": 41922,
+        "chunkOrig": 0,
+        "implNodes": [
+            4082
+        ]
+    },
+    "41923": {
+        "chunkContent": "2.   **Update the Documentation of the Policy and Procedures**  \u00b7    Change policies and  procedures as is reasonable and appropriate  at any time,  provided that the changes are documented and implemented in  accordance with the requirements  of the HIPAA Security Rule.  \u00b7     Is a process in place  for periodically reevaluating the policies and procedures and updating them as necessary?[147](#_bookmark139)",
+        "chunkLabel": "164.316(a)",
+        "chunkNum": 4,
+        "chunkId": 41923,
+        "chunkOrig": 0,
+        "implNodes": [
+            4082
+        ]
+    },
+    "41924": {
+        "chunkContent": "**Key Activities**  **Description**  **Sample Questions**                                         \n ------------------  ---------------  ------------------------------------------------------------ \n                                      \u00b7    Should HIPAA documentation be updated in response to  periodic evaluations, following security incidents, and/or after acquisitions of new  technology or new procedures?  \u00b7    As policies and procedures are changed, are new versions made available and are  workforce members  appropriately trained?[148](#_bookmark140)",
+        "chunkLabel": "164.316(a)",
+        "chunkNum": 7,
+        "chunkId": 41924,
+        "chunkOrig": 0,
+        "implNodes": [
+            4082
+        ]
+    },
+    "40022": {
+        "chunkContent": "## Organizational Requirements\n\n### Documentation (\u00a7 164.316(b))\n\n**HIPAA Standard:** (i) Maintain the policies and procedures implemented to comply with this subpart in written (which may be electronic) form; and (ii) if an action, activity or assessment is required by this subpart to be documented, maintain a written (which may be electronic) record of the action, activity, or assessment.\n\n**Table 29. Key activities, descriptions, and sample questions for the Documentation standard**",
+        "chunkLabel": "164.316(b)",
+        "chunkNum": 1,
+        "chunkId": 40022,
+        "chunkOrig": 1,
+        "implNodes": [
+            4083,
+            4084,
+            4085,
+            4086,
+            4087
+        ]
+    },
+    "42023": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 1.   **Draft, Maintain, and Update  Required Documentation**  \u00b7     Document decisions concerning the management, operational, and technical controls selected to mitigate identified risks.  \u00b7     Written documentation may be incorporated into existing  manuals, policies, and other documents or be created specifically for the  purpose of demonstrating compliance with the HIPAA Security Rule.  \u00b7     Consider the importance of documenting the  processes and procedures for demonstrating the adequate implementation  of recognized security practices.  \u00b7     Use feedback from  risk assessments and  contingency plan tests to  help determine when to update documentation.  \u00b7    Are all required policies and procedures documented?  \u00b7     Should HIPAA Security Rule documentation be maintained  by the individual responsible for HIPAA Security Rule implementation?  \u00b7     Should HIPAA Security Rule documentation be updated in response to periodic evaluations,  following security incidents, and/or after acquisitions of new technology or  new procedures?  \u00b7     Have dates of creation and  validity periods been  included in all documentation?  \u00b7     Has appropriate management reviewed and approved all documentation?  \u00b7    Are actions, activities, and  assessments required by the  Security Rule documented as appropriate?",
+        "chunkLabel": "164.316(b)",
+        "chunkNum": 2,
+        "chunkId": 42023,
+        "chunkOrig": 0,
+        "implNodes": [
+            4083,
+            4084,
+            4085,
+            4086,
+            4087
+        ]
+    },
+    "42024": {
+        "chunkContent": "2.   **Retain Documentation for at Least Six  Years**  **Implementation Specification (Required)**  \u00b7     *Retain documentation required by paragraph (b)(1) of this section for six years from the  date of its creation or the date when it last was in effect, whichever is  later.*  \u00b7     Have documentation retention requirements under HIPAA been aligned with the  organization\u2019s other data retention policies? \n 3.   **Ensure That  Documentation is Available to Those  Responsible for Implementation**  **Implementation Specification (Required)**  \u00b7     *Make documentation  available to those persons responsible for implementing the procedures to which the documentation pertains.*  \u00b7     Is the location of the documentation known to all staff  who need to access it?  \u00b7     Is availability of the documentation made known as part of education, training, and awareness  activities?[149](#_bookmark142)",
+        "chunkLabel": "164.316(b)",
+        "chunkNum": 4,
+        "chunkId": 42024,
+        "chunkOrig": 0,
+        "implNodes": [
+            4083,
+            4084,
+            4085,
+            4086,
+            4087
+        ]
+    },
+    "42025": {
+        "chunkContent": "**Key Activities**                                            **Description**                                               **Sample Questions**                                         \n ------------------------------------------------------------  ------------------------------------------------------------  ------------------------------------------------------------ \n 4.   **Update Documentation as Required**  **Implementation Specification  (Required)**  \u00b7    *Review documentation periodically and update as needed  in response to environmental or operational changes that affect the security of the ePHI.*  \u00b7     Is there a version control procedure that allows for the verification of the timeliness of policies and  procedures, if reasonable  and appropriate?  \u00b7     Is there a process for soliciting input  on updates of policies  and procedures from staff, if reasonable and appropriate?  \u00b7     Are policies and procedures updated in response to environmental or operational changes that affect the security of ePHI?  \u00b7    When were the policies and procedures last  updated or reviewed?",
+        "chunkLabel": "164.316(b)",
+        "chunkNum": 7,
+        "chunkId": 42025,
+        "chunkOrig": 0,
+        "implNodes": [
+            4083,
+            4084,
+            4085,
+            4086,
+            4087
+        ]
+    }
+}
