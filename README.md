@@ -4,7 +4,7 @@ Knowledge Graph POC implementation to illustrate SME Agentic workflow with RAG s
 ## Demo Schema
 > [!NOTE]
 >
-> Node properties:
+> **Node properties**:
 > 
 > standard {std_id: INTEGER, label: STRING, title: STRING, type: STRING}
 >
@@ -12,7 +12,7 @@ Knowledge Graph POC implementation to illustrate SME Agentic workflow with RAG s
 >
 > hipaaimpl {label: STRING, chunk_id: INTEGER, chunk: STRING, chunk_n: INTEGER, contentEmbeddingOpenAI: LIST}
 >
-> Relationship properties:
+> **Relationship properties**:
 >
 > stdcontrol {from_id: INTEGER, to_id: INTEGER}
 >
@@ -20,7 +20,7 @@ Knowledge Graph POC implementation to illustrate SME Agentic workflow with RAG s
 >
 > controlimpl {from_id: INTEGER, to_id: INTEGER}
 >
-> The relationships:
+> **The relationships**:
 >
 > (:standard)-[:stdcontrol]->(:control)
 >
