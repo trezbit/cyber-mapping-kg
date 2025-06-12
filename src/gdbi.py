@@ -1,8 +1,10 @@
 '''Graph database connector for Neo4j'''
 import os
 from neo4j import GraphDatabase
-# from neo4j.exceptions import Neo4jError
+import dotenv
 
+# from neo4j.exceptions import Neo4jError
+dotenv.load_dotenv()
 NEO4J_URI = os.environ.get("NEO4J_URI")
 NEO4J_USER = os.environ.get("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = os.environ.get("NEO4J_PASSWORD")
