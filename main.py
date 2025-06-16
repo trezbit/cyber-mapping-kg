@@ -5,6 +5,7 @@ import src.raginfer as ri
 import argparse
 
 from src.includes import SearchType
+from src.ragagent import GraphRAGAgent
 
 
 def preprocess(reload=None):
@@ -74,6 +75,16 @@ def infer_session(demoinfer, question=None, search_type=SearchType.CHAT):
         print(search_type.name + " Inference response:", response)
 
 
+def triage_session(question=None):
+    """Run a triage session for generated mappings"""
+    demoagent = GraphRAGAgent()
+    response = demoagent.invoke()
+    if response:
+        print("Triage Inference response:", response)
+    else:
+        print("Error in triage session.")
+
+
 def run_session(args):
     demoinfer = ri.GraphInference()
     """Run demo session based on CLI arguments"""
@@ -88,7 +99,7 @@ def run_session(args):
     elif args.command == "demo" and args.chat is not None:
         infer_session(demoinfer, question=args.chat, search_type=SearchType.CHAT)
     elif args.command == "demo" and args.triage is not None:
-        print("Demo triage function not implemented.")
+        triage_session(question=args.triage)
     elif args.command == "prep":
         preprocess(args.prep)
     else:

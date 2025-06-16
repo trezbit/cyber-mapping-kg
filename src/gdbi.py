@@ -2,6 +2,8 @@
 import os
 from neo4j import GraphDatabase
 import dotenv
+import neo4j
+import pandas as pd
 
 # from neo4j.exceptions import Neo4jError
 dotenv.load_dotenv()
@@ -50,3 +52,11 @@ class NEO4JConnector(object):
         with self.driver.session() as session:
             result = session.run(query, params)
             return result
+
+    def run_df_query(self, query, params) -> pd.DataFrame:
+        '''Execute a query and return the result'''
+        result_df = self.driver.execute_query(
+            query, params, database_="neo4j",
+            result_transformer_=neo4j.Result.to_df
+        )
+        return result_df

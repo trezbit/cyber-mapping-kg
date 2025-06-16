@@ -4,92 +4,59 @@ from langchain.prompts import PromptTemplate
 system_instructions = """
 You are a Cybersecurity SME tasked with compiling mappings between domains, controls and sub controls
 across a variety of Cybersecurity and Privacy standards.
-When provided with a user question that contains a domain or sub control identifier or label.
-extract the relevant, mapping controls in other standards.
-
-Example: The required information that needs to be extracted for the user provided CSF 2.0
-subcontrol (e.g., Focal Document Element: GV.OC-01), is:
-- Reference Document Element: Specific HIPAA Security Rule section/subsection labels e.g., 164.308(a)(1)(ii)(A)
-- Strength of relationship: The strength of mapping relationship between the sub-controls/sections
-- Rationale: A brief rationale, as examplified in the structured response.
-
-Context: The primary mapping scope and expertise is: NIST's CSF 2.0 to
+Your core expertise centers around the mapping of NIST's CSF 2.0 controls to
 Health Insurance Portability and Accountability Act (HIPAA) Security Rule: 45 CFR Part 164.
-Ensure the output is concise and strictly follows the instructions for the structured response.
+
+When provided with a user question that contains a domain or sub control identifier or label.
+extract the relevant, mapping provisions. 
+For instance, the required information that needs to be extracted for the user provided 
+CSF 2.0 subcontrol (e.g., Focal Document Element: GV.OC-01), is:
+- Reference Document Element: Specific HIPAA Security Rule section/subsection labels e.g., 164.308(a)(1)(ii)(A)
+- Strength of relationship: Estimated strength or confidence in the mapping relationship between the sub-controls and sections
+- Rationale: A brief rationale behind the mapping, such as conceptual relevance, reference to prior mappings.
+
+In providing your response,
+
+1 - First and foremost, note that the 'Structured Response Example' below is provided ONLY to
+demonstrate the expected format. Do not limit your response to this example, and 
+find AS MANY realistic mappings as possible.
+2 - In the process, consider material published by NIST/OLIR, or any other security standards capturing:
+- Available mappings for NIST CSF 1.1 to the HIPAA Security Rule provisions.
+- Available mappings from the prior version: NIST CSF 1.1 to CSF 2.0 controls and subcontrols.
+3 - Ensure the output follows the instructions for the structured response.
+4 - Do not include any additional explanation or context outside of the response.
+
 """
 
 structured_example = """
 Focal_Document_Element,Reference_Document_Element,Strength_of_relationship,Rationale
-"GV.OC-01","164.308(a)(1)(ii)(A)",0.99,"Crosswalk from NIST CSF 1.1 to HIPAA Security Rule"
-"GV.OC-01","164.308(a)(8)",0.95,"Crosswalk from NIST CSF 1.1 to HIPAA Security Rule"
+"GV.OC-01","164.308(a)(1)(ii)(A)",0.85,"Crosswalk-CSF 1.1 to HIPAA Security Rule"
 """
 
 
-prompt_base = """
-You are a Cybersecurity SME tasked with compiling mappings between domains, controls and sub controls
-across a variety of Cybersecurity and Privacy standards.
-When provided with a user question that contains a domain or sub control identifier or label.
-extract the relevant, mapping controls in other standards.
-
-Example: The required information that needs to be extracted for the user provided CSF 2.0
-subcontrol (e.g., Focal Document Element: GV.OC-01), is:
-- Reference Document Element: Specific HIPAA Security Rule section/subsection labels e.g., 164.308(a)(1)(ii)(A)
-- Strength of relationship: The strength of mapping relationship between the sub-controls/sections
-- Rationale: A brief rationale, as examplified in the structured response.
-
-The primary mapping scope and expertise is: NIST's CSF 2.0 to
-Health Insurance Portability and Accountability Act (HIPAA) Security Rule: 45 CFR Part 164.
-Consider available mappings for the prior version: CSF 1.1 for the HIPAA Security Rule
-Ensure the output follows the instructions for the structured response.
-The structured response example is provided below. Note that the actual mapping row count is not
-limited to the provided example: don't limit the mapped controls to a high strength value, anything above 0.75
-is acceptable as a potential map. Get as many reasonable mappings as possible.
-
+prompt_base = system_instructions + """
 Structured Response Example:
 
-```
-Focal_Document_Element,Reference_Document_Element,Strength_of_relationship,Rationale
-"GV.OC-01","164.308(a)(1)(ii)(A)",0.99,"Crosswalk from NIST CSF 1.1 to HIPAA Security Rule"
-"GV.OC-01","164.308(a)(8)",0.95,"Crosswalk from NIST CSF 1.1 to HIPAA Security Rule"
+```""" + structured_example + """
 ```
 
 User Question: {question}
 
 Context: {summaries}
 """
+
 prompt_template_hipaa = PromptTemplate(
     template=prompt_base,
     input_variables=["question"]
 
 )
 
-prompt_chat = """
-You are a Cybersecurity SME tasked with compiling mappings between domains, controls and sub controls
-across a variety of Cybersecurity and Privacy standards.
-When provided with a user question that contains a domain or sub control identifier or label.
-extract the relevant, mapping controls in other standards.
+prompt_chat = system_instructions + """
+Structured Response Example:
 
-Example: The required information that needs to be extracted for the user provided CSF 2.0
-subcontrol (e.g., Focal Document Element: GV.OC-01), is:
-- Reference Document Element: Specific HIPAA Security Rule section/subsection labels e.g., 164.308(a)(1)(ii)(A)
-- Strength of relationship: The strength of mapping relationship between the sub-controls/sections
-- Rationale: A brief rationale, as examplified in the structured response.
-
-The primary mapping scope and expertise is: NIST's CSF 2.0 to
-Health Insurance Portability and Accountability Act (HIPAA) Security Rule: 45 CFR Part 164.
-Consider available mappings for the prior version: CSF 1.1 for the HIPAA Security Rule
-Ensure the output follows the instructions for the structured response.
-The structured response example is provided below. Note that the actual mapping row count is not
-limited to the provided example: don't limit the mapped controls to a high strength value, anything above 0.75
-is acceptable as a potential map. Get as many reasonable mappings as possible.
-
-Structured Example:
-
+```""" + structured_example + """
 ```
-Focal_Document_Element,Reference_Document_Element,Strength_of_relationship,Rationale
-"GV.OC-01","164.308(a)(1)(ii)(A)",0.99,"Crosswalk from NIST CSF 1.1 to HIPAA Security Rule"
-"GV.OC-01","164.308(a)(8)",0.95,"Crosswalk from NIST CSF 1.1 to HIPAA Security Rule"
-```
+
 """
 
 prompt_template_hipaa_complex = PromptTemplate(
@@ -109,6 +76,19 @@ prompt_template_hipaa_complex = PromptTemplate(
 
 
 demo_question_hipaa = "What are the HIPAA Security Rule sections that map to CSF 2.0's GV.OC-01?"
+demo_control_hipaa = "GV.OC-01"
+rag_query_hipaa = """
+MATCH (c2:control {label: $csf2ctrl})<-[r1:controlmap]->(ci:control)-[r2:controlmap]->(ch:control)
+WHERE c2.ctrlid > 3000 and c2.ctrlid < 4000 AND ch.ctrlid > 4000 and ch.ctrlid < 5000
+Return c2.label as csf2, ch.label as hipaa,
+0.7 + (count(distinct ci.ctrlid)*0.05) + ((size(split(ch.label, "("))-1)*0.025) as strength
+order by c2.label, ch.label
+"""
+ground_rag_colmap = {
+                "csf2": "Focal_Document_Element",
+                "hipaa": "Reference_Document_Element",
+                "strength": "Strength_of_relationship"}
+
 
 plain_example = '''{
     "Focal DocumentElement": "GV.OC-01",

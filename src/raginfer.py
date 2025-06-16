@@ -104,8 +104,8 @@ class GraphInference:
         results = plain_chain.invoke({"question": question})
         return results["answer"]
 
-    def infer_rag(self, question):
-        """Generate LLM mappings leveraging GraphRAG vectors and context from existing mappings 
+    def infer_rag(self, question, only_outputs=False):
+        """Generate LLM mappings leveraging GraphRAG vectors and context from existing mappings
            for augmented retrieval (semantic + episodic search)"""
         if question is None or len(question) == 0 or question == "":
             """Default question for plain inference"""
@@ -155,6 +155,10 @@ class GraphInference:
             chain_type_kwargs={"prompt": templates.prompt_template_hipaa},
         )
 
-        results = plain_chain.invoke({"question": question})
+        results = None
+        if only_outputs:
+            results = plain_chain.invoke({"question": question}, return_only_outputs=True)
+        else:
+            results = plain_chain.invoke({"question": question})
 
         return results["answer"]
