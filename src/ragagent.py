@@ -31,6 +31,7 @@ class GraphRAGAgent:
 
     def generate_map(self, query: str):
         """Use the Neo4j Graph to run a RAG Query."""
+        self.ctrlquery = query
         result = self.inferer.infer_rag(query, only_outputs=True)
         return result
 
@@ -63,9 +64,12 @@ class GraphRAGAgent:
         )
         return dfmerged
 
-    def ground_map(self, strout: str):
+    def ground_map(self, strout: str, msg=None) -> pd.DataFrame:
         """Ground genai query results to the Neo4j Graph."""
 
+        if msg is None or len(msg) == 0 or msg == "":
+            """Default question for grounding"""
+            msg = templates.demo_control_hipaa
         # Read the strout csv string output into a DataFrame
         strout = strout.strip("```\n")
 
@@ -75,7 +79,7 @@ class GraphRAGAgent:
 
         resdf = self.neo4jconnector.run_df_query(
             templates.rag_query_hipaa,
-            params={"csf2ctrl": templates.demo_control_hipaa},
+            params={"csf2ctrl": msg},
         )
 
         if type(resdf) is not pd.DataFrame:
@@ -89,7 +93,7 @@ class GraphRAGAgent:
         # 1 - Generate the mapping using RAG augmented LLM session
         genmap = self.generate_map(msg)
         # 2 - Ground the generated mapping to the Neo4j Graph
-        groundmap = self.ground_map(genmap)
+        groundmap = self.ground_map(genmap, msg)
         # 3 - Combine the results
         response = {
             "generated_map": genmap,

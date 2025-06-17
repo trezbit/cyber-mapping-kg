@@ -42,6 +42,10 @@ class GraphInference:
         if question is None or len(question) == 0 or question == "":
             """Default question for plain inference"""
             question = templates.demo_question_hipaa
+        else:
+            """If ctrl-q is provided, use it"""
+            question = templates.control_question_template.replace("__CTRL__", question)
+        """Print the question for debugging purposes"""
         print(question)
 
         # Create a chatbot Question & Answer chain from the retriever
@@ -52,7 +56,7 @@ class GraphInference:
         # Alternatively we can use a vanilla prompt template with the LLM directly
         messages = [
             ("system", templates.prompt_chat),
-            ("human", templates.demo_question_hipaa),
+            ("human", question),
         ]
 
         results = llm.invoke(messages)
@@ -63,6 +67,9 @@ class GraphInference:
         if question is None or len(question) == 0 or question == "":
             """Default question for plain inference"""
             question = templates.demo_question_hipaa
+        else:
+            """If ctrl-q is provided, use it"""
+            question = templates.control_question_template.replace("__CTRL__", question)
         print(question)
 
         """Infer with question no augmentation for LLM"""
@@ -110,6 +117,9 @@ class GraphInference:
         if question is None or len(question) == 0 or question == "":
             """Default question for plain inference"""
             question = templates.demo_question_hipaa
+        else:
+            """If ctrl-q is provided, use it"""
+            question = templates.control_question_template.replace("__CTRL__", question)
         print(question)
 
         retrieval_query = """

@@ -76,6 +76,9 @@ prompt_template_hipaa_complex = PromptTemplate(
 
 
 demo_question_hipaa = "What are the HIPAA Security Rule sections that map to CSF 2.0's GV.OC-01?"
+control_question_template = """
+What are the HIPAA Security Rule sections that map to CSF 2.0's __CTRL__?
+"""
 demo_control_hipaa = "GV.OC-01"
 rag_query_hipaa = """
 MATCH (c2:control {label: $csf2ctrl})<-[r1:controlmap]->(ci:control)-[r2:controlmap]->(ch:control)

@@ -75,10 +75,10 @@ def infer_session(demoinfer, question=None, search_type=SearchType.CHAT):
         print(search_type.name + " Inference response:", response)
 
 
-def triage_session(question=None):
+def triage_session(input=None):
     """Run a triage session for generated mappings"""
     demoagent = GraphRAGAgent()
-    response = demoagent.invoke()
+    response = demoagent.invoke(msg=input)
     if response:
         print("Triage Inference response:", response)
     else:
@@ -99,7 +99,7 @@ def run_session(args):
     elif args.command == "demo" and args.chat is not None:
         infer_session(demoinfer, question=args.chat, search_type=SearchType.CHAT)
     elif args.command == "demo" and args.triage is not None:
-        triage_session(question=args.triage)
+        triage_session(input=args.triage)
     elif args.command == "prep":
         preprocess(args.prep)
     else:
