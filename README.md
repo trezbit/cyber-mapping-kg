@@ -109,7 +109,7 @@ In all LLM cases (direct LLM, plain augmentation, extended RAG), at `temperature
 
 > [!TIP]
 >
-> Experiment with different user queries and controls to see how direct LLM response and the plain query augmentation differ only marginally, picking identical mappings with some more elaborate rationale  thanks to vector indices capturing the HIPAA Security implementation SP 800-66r2r2 document chunks.
+> Experiment with different user queries and controls to see how direct LLM response and the plain query augmentation differ only marginally, picking identical mappings with some more elaborate rationale  thanks to vector indices capturing the HIPAA Security implementation SP 800-66r2 document chunks.
 >
 > The last RAG demo where the query augmented with CSF 2.0 control and domain content in addition to the vector indices allows for few more mappings and a slightly richer wording of the rationale.
 
@@ -179,7 +179,7 @@ What are the HIPAA Security Rule sections that map to CSF 2.0's GV.OC-02?
 ```
 Triage Inference response: {'generated_map': ```\nFocal_Document_Element,Reference_Document_Element,Strength_of_relationship,Rationale\n"GV.OC-02","164.308(a)(1)(ii)(B)",0.80,"Crosswalk-CSF 1.1 to HIPAA Security Rule"\n"GV.OC-02","164.308(a)(2)",0.75,"Conceptual alignment with security management process"\n"GV.OC-02","164.312(a)(1)",0.70,"Alignment with access control implementation"\n```', 'grounded_map':
 
-      Focal_Document_Element Reference_Document_Element  Strength_of_relationship  Rationale                                  Agreement
+      Focal_Document_Element Reference_Document_Element  Strength_of_relationship  Rationale                         Agreement
 0     GV.OC-02               164.306(e)                  0.825                     Grounded from KB inference        No
 1     GV.OC-02               164.308(a)(1)(ii)(A)        0.850                     Grounded from KB inference        No
 2     GV.OC-02               164.308(a)(1)(ii)(B)        0.800                     Crosswalk-CSF 1.1 to HIPAA Security Rule        No
@@ -204,9 +204,18 @@ To add new standards or mappings, update the CSVs in `data/graphdb/` and re-run 
 ------
 
 ### References
-
-- NIST CSF 2.0, HIPAA Security Rule, CIS Controls, Secure Controls Framework (SCF)
-- [LangChain](vscode-file://vscode-app/c:/Users/seedl/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html), [Neo4j](vscode-file://vscode-app/c:/Users/seedl/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+#### Standards and Frameworks
+- [NIST OLIR](https://csrc.nist.gov/projects/olir/informative-reference-catalog#/)
+- [NIST CSF 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+- [NIST CSF 1.1](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf)
+- [NIST SP-800-66r2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-66r2.pdf)
+- [HHS HIPAA Security Rule](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164)
+- [CIS Controls v.8](https://www.cisecurity.org/controls/v8)
+- [Secure Controls Framework (SCF 2025.1)](https://github.com/securecontrolsframework/securecontrolsframework)
+#### Libraries and Dependencies
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [Open AI Models](https://platform.openai.com/docs/models)
+- [Neo4j](https://github.com/neo4j/neo4j)
 
 
 
